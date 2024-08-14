@@ -6,7 +6,7 @@
 /*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/06 13:58:04 by anfi              #+#    #+#             */
-/*   Updated: 2024/08/06 14:11:51 by anfi             ###   ########.fr       */
+/*   Updated: 2024/08/14 23:16:03 by anfi             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -46,4 +46,12 @@ void	*ft_calloc(size_t nitems, size_t size)
 		return (NULL);
 	memset(str, '\0', size);
 	return (str);
+}
+
+unsigned long get_time(void)
+{
+	struct timeval time;
+	if (gettimeofday(&time, NULL))
+		return (0);
+	return ((time.tv_sec * 1000 + time.tv_usec / 1000));
 }

@@ -13,7 +13,9 @@ CFLAGS = -Wall -Werror -Wextra -I$(INC_DIR)
 RM = rm -rf
 
 OBJS = $(OBJS_DIR)/philo.o \
-		$(OBJS_DIR)/utils.o
+		$(OBJS_DIR)/utils.o \
+		$(OBJS_DIR)/free.o \
+		$(OBJS_DIR)/init.o
 
 
 .PHONY = clean all fclean re
