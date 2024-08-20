@@ -7,6 +7,7 @@ OBJS_DIR = ./obj
 SRC_DIR = ./src
 #BONUS_DIR = ./bonus
 CC = gcc
+#CFLAGS = -I$(INC_DIR)
 CFLAGS = -Wall -Werror -Wextra -I$(INC_DIR)
 #CFLAGS = -Wall -Werror -Wextra -I$(INC_DIR) -fsanitize=address -g3 
 
@@ -15,7 +16,11 @@ RM = rm -rf
 OBJS = $(OBJS_DIR)/philo.o \
 		$(OBJS_DIR)/utils.o \
 		$(OBJS_DIR)/free.o \
-		$(OBJS_DIR)/init.o
+		$(OBJS_DIR)/init.o \
+		$(OBJS_DIR)/getters_setters.o \
+		$(OBJS_DIR)/actions.o \
+		$(OBJS_DIR)/monitor.o \
+		$(OBJS_DIR)/validation.o
 
 
 .PHONY = clean all fclean re

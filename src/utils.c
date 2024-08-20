@@ -6,7 +6,7 @@
 /*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/06 13:58:04 by anfi              #+#    #+#             */
-/*   Updated: 2024/08/14 23:16:03 by anfi             ###   ########.fr       */
+/*   Updated: 2024/08/20 21:07:15 by anfi             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -43,10 +43,33 @@ void	*ft_calloc(size_t nitems, size_t size)
 
 	str = (malloc(nitems * size));
 	if (str == 0)
-		return (NULL);
+		return (error_exit("Malloc error"), NULL);
 	memset(str, '\0', size);
 	return (str);
 }
+
+// void	handle_mutex_error(int status, t_mutex mutex_option)
+// {
+// 	if (status == 0)
+// 		return ;
+// 	if (status == EINVAL && mutex_option == LOCK || mutex_option == UNLOCK)
+// 		error_exit("the mutex has not been properly initialized");
+	
+// }
+
+// void	safe_mutex_handle(pthread_mutex_t *mutex, t_mutex mutex_option)
+// {
+// 	if (mutex_option == LOCK)
+// 		handle_mutex_error(pthread_mutex_lock(mutex), mutex_option);
+// 	else if (mutex_option == UNLOCK)
+// 		handle_mutex_error(pthread_mutex_unlock(mutex), mutex_option);
+// 	else if (mutex_option == INIT)
+// 		handle_mutex_error(pthread_mutex_init(mutex, NULL), mutex_option);
+// 	else if (mutex_option == DESTROY)
+// 		handle_mutex_error(pthread_mutex_destroy(mutex), mutex_option);
+// 	else
+// 		error_exit("Invalid mutex option");
+// }
 
 unsigned long get_time(void)
 {
@@ -54,4 +77,22 @@ unsigned long get_time(void)
 	if (gettimeofday(&time, NULL))
 		return (0);
 	return ((time.tv_sec * 1000 + time.tv_usec / 1000));
+}
+
+void	error_exit(const char *error)
+{
+	printf(RED"%s\n"STD, error);
+}
+
+void	precise_usleep(unsigned long milliseconds, t_data *data)
+{
+	unsigned long	start;
+
+	start = get_time();
+	while (get_time() - start < milliseconds)
+	{
+		if (meal_continues(data) == false)
+			break;
+		usleep(500);
+	}
 }
