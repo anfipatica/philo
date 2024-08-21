@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   init.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
+/*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/14 23:13:38 by anfi              #+#    #+#             */
-/*   Updated: 2024/08/20 22:38:14 by anfi             ###   ########.fr       */
+/*   Updated: 2024/08/21 20:49:29 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,8 @@
 
 void	assign_forks(t_philo *philo, pthread_mutex_t *forks, int i)
 {
-	if (philo->index % 2 || philo->index == 0)
+	//if there is only one philo could this lead to problems??? aparently not but ????
+	if (philo->index % 2)
 	{
 		philo->first_fork = &forks[i];
 		philo->second_fork = &forks[(i + 1) % philo->data->total_philos];
@@ -48,11 +49,11 @@ t_philo	*init_philos(t_data *data, t_philo *philo)
 			philo[i].target_philo = &philo[i + 1];
 		philo[i].data = data;
 		assign_forks(&philo[i], data->forks, i);
+		philo[i].can_eat = true;
 	}
-	printf("philo[0] index = %d\n", philo[0].index);
 	return (philo);
 }
-void	init_data(t_data *data, int argc, char **argv)
+int	init_data(t_data *data, int argc, char **argv)
 {
 	data->total_philos = ft_atoi(argv[1]);
 	data->death = ft_atoi(argv[2]);
@@ -62,12 +63,15 @@ void	init_data(t_data *data, int argc, char **argv)
 		data->min_meals = ft_atoi(argv[5]);
 	else
 		data->min_meals = -1;
-	if (data->death < 6e4 || data->eat < 6e4 || data->sleep < 6e4)
-		error_exit("Please, use times bigger than 60ms");
+	if (data->death < 60 || data->eat < 60 || data->sleep < 60)
+		return (1);
 	data->all_alive = true;
 	data->all_ate = false;
 	data->all_ready = false;
 	data->philos_full = 0;
+	data->philo_feed = 0;
 	pthread_mutex_init(&data->data_mutex, NULL);
 	pthread_mutex_init(&data->write_mutex, NULL);
+	pthread_mutex_init(&data->total_meals_mutex, NULL);
+	return (0);
 }

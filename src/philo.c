@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   philo.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
+/*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/06 13:55:37 by anfi              #+#    #+#             */
-/*   Updated: 2024/08/20 22:30:44 by anfi             ###   ########.fr       */
+/*   Updated: 2024/08/21 17:01:19 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,15 +23,16 @@ int	main(int argc, char **argv)
 	philos = NULL;
 	if (argc == 5 || argc == 6)
 	{
-		if (validate_arguments(argc, argv) == false)
-			return (error_exit("Found at least one non numeric char"), 1);
-		init_data(&data, argc, argv);
+		if (validate_arguments(argv))
+			return (1);
+		if (init_data(&data, argc, argv))
+			return (error_exit("Please, use times bigger than 60ms"));
 		philos = init_philos(&data, philos);
-		printf("--philo[0] index = %d\n", philos[0].index);
 		dinner_start(&data, philos);
+		printf("SANSEACABÓ!\n");
 		ft_free(philos, &data);
 	}
 	else
-		return (error_exit("Wrong input. You need to send 5 or 6 int arguments"), 1);
+		return (error_exit("Wrong input. You need to send 5 or 6 int arguments"));
 	return (0);
 }

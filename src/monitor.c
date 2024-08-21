@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   monitor.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
+/*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/19 21:19:13 by anfi              #+#    #+#             */
-/*   Updated: 2024/08/20 22:38:37 by anfi             ###   ########.fr       */
+/*   Updated: 2024/08/21 14:38:07 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,7 +22,6 @@ void *monitor_function(void *philo_void)
 	data = (t_data *)philo[0].data;
 	i = -1;
 	wait_all_threads(data);
-	printf("super mega ready!\n");
 	while (meal_continues(data) == true)
 	{
 		++i;
@@ -30,6 +29,7 @@ void *monitor_function(void *philo_void)
 			philo[i].last_meal = get_time();
 		if ((get_time() - philo[i].last_meal) > data->death) //maybe add a safer to way to access last_meal
 		{
+			printf("--> %lu\n", (get_time() - philo[i].last_meal));
 			print_status(DIED, &philo[i]);
 			set_bool(&data->data_mutex, &data->all_alive, false);
 			break;

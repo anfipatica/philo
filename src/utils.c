@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   utils.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
+/*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/06 13:58:04 by anfi              #+#    #+#             */
-/*   Updated: 2024/08/20 21:07:15 by anfi             ###   ########.fr       */
+/*   Updated: 2024/08/21 14:33:09 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -77,11 +77,6 @@ unsigned long get_time(void)
 	if (gettimeofday(&time, NULL))
 		return (0);
 	return ((time.tv_sec * 1000 + time.tv_usec / 1000));
-}
-
-void	error_exit(const char *error)
-{
-	printf(RED"%s\n"STD, error);
 }
 
 void	precise_usleep(unsigned long milliseconds, t_data *data)

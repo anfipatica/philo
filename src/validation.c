@@ -3,30 +3,58 @@
 /*                                                        :::      ::::::::   */
 /*   validation.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
+/*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/19 19:24:27 by anfi              #+#    #+#             */
-/*   Updated: 2024/08/19 20:17:03 by anfi             ###   ########.fr       */
+/*   Updated: 2024/08/21 14:28:48 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../inc/philo.h"
 
-int	validate_arguments(int argc, char **argv)
+int	validate_argv(char *argv)
 {
 	int	i;
-	int	j;
+	int	n;
 
 	i = 0;
-	while (++i < argc)
+	n = 0;
+	while (argv[i])
 	{
-		j = -1;
-		
-		while (argv[i][++j])
+		while (argv[i] == ' ')
+			i++;
+		if (argv[i] && argv[i] == '+')
+			i++;
+		else if (argv[i] && argv[i] == '-')
+			return (-2);
+		if (argv[i] && (argv[i] == '0' || (argv[i] < '0' || argv[i] > '9')))
+			return (-1);
+		while (argv[i] && (argv[i] >= '0' && argv[i] <= '9'))
 		{
-			if ((argv[i][j] < '0' || argv[i][j] > '9'))
-				return (false);
+			i++;
+			if (!argv[i] || (argv[i] && argv[i] == ' '))
+				n++;
+			else if (argv[i] < '0' || argv[i] > '9')
+				return (-1);
 		}
 	}
-	return (true);
+	return (n);
+}
+
+int	validate_arguments(char **argv)
+{
+	int	i;
+	int	returned;
+
+	i = 0;
+	returned = 0;
+	while (argv[++i])
+	{
+		returned = validate_argv(argv[i]);
+		if (returned == -2)
+			return (error_exit("Please, enter only positive numbers"));
+		else if (returned == -1)
+			return (error_exit("Please, enter numeric values"));
+	}
+	return (0);
 }

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   getters_setters.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
+/*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/14 23:13:38 by anfi              #+#    #+#             */
-/*   Updated: 2024/08/20 22:01:52 by anfi             ###   ########.fr       */
+/*   Updated: 2024/08/21 18:01:25 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -68,5 +68,6 @@ int	get_int(pthread_mutex_t *mutex, int *value)
 	pthread_mutex_lock(mutex);
 	ret = *value;
 	pthread_mutex_unlock(mutex);
+	printf("ret__________________________ %d\n", ret);
 	return (ret);
 }

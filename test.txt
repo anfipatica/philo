@@ -1,9811 +1,3989 @@
-[1;31mPlease, use times bigger than 60ms
-[0mphilo[0] index = 1
---philo[0] index = 1
-ret = 0
--->+++0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 0
--->0
-ret = 0
-ret = 1
--->1
-ret = 1
-ret = 1
-ret = 0
+1724256099451 59 has taken a fork
+0 64 has taken a fork
+0 59 has taken a fork
+0 64 has taken a fork
+0 64 is eating
+0 59 is eating
+0 41 has taken a fork
+0 41 has taken a fork
+0 85 has taken a fork
+0 33 has taken a fork
+0 85 has taken a fork
+0 78 has taken a fork
+0 78 has taken a fork
+0 78 is eating
+0 87 has taken a fork
+0 18 has taken a fork
+0 18 has taken a fork
+0 18 is eating
+0 87 has taken a fork
+0 87 is eating
+0 75 has taken a fork
+0 75 has taken a fork
+0 75 is eating
+0 21 has taken a fork
+0 21 has taken a fork
+0 21 is eating
+0 77 has taken a fork
+0 28 has taken a fork
+0 28 has taken a fork
+0 28 is eating
+0 36 has taken a fork
+0 36 has taken a fork
+0 36 is eating
+0 23 has taken a fork
+0 23 has taken a fork
+0 88 has taken a fork
+0 47 has taken a fork
+0 47 has taken a fork
+0 47 is eating
+0 68 has taken a fork
+0 68 has taken a fork
+0 68 is eating
+0 30 has taken a fork
+0 30 has taken a fork
+0 17 has taken a fork
+0 30 is eating
+0 45 has taken a fork
+0 45 has taken a fork
+0 45 is eating
+0 3 has taken a fork
+0 3 has taken a fork
+0 3 is eating
+0 80 has taken a fork
+0 34 has taken a fork
+0 80 has taken a fork
+0 12 has taken a fork
+0 62 has taken a fork
+0 12 has taken a fork
+0 62 has taken a fork
+0 12 is eating
+0 80 is eating
+0 62 is eating
+0 66 has taken a fork
+0 72 has taken a fork
+0 66 has taken a fork
+0 72 has taken a fork
+0 15 has taken a fork
+0 72 is eating
+0 66 is eating
+0 15 has taken a fork
+0 15 is eating
+0 49 has taken a fork
+0 27 has taken a fork
+0 49 has taken a fork
+0 49 is eating
+0 39 has taken a fork
+0 6 has taken a fork
+0 39 has taken a fork
+0 39 is eating
+0 71 has taken a fork
+0 6 has taken a fork
+0 11 has taken a fork
+0 6 is eating
+0 4 has taken a fork
+0 24 has taken a fork
+0 8 has taken a fork
+0 8 has taken a fork
+0 8 is eating
+0 23 is eating
+0 85 is eating
+0 82 has taken a fork
+0 82 has taken a fork
+0 61 has taken a fork
+0 57 has taken a fork
+0 57 has taken a fork
+0 57 is eating
+0 82 is eating
+0 96 has taken a fork
+0 96 has taken a fork
+0 96 is eating
+0 41 is eating
+0 43 has taken a fork
+0 95 has taken a fork
+0 43 has taken a fork
+0 43 is eating
+0 92 has taken a fork
+0 92 has taken a fork
+0 92 is eating
+0 55 has taken a fork
+0 99 has taken a fork
+0 99 has taken a fork
+0 55 has taken a fork
+0 91 has taken a fork
+0 99 is eating
+0 55 is eating
+0 33 has taken a fork
+0 33 is eating
 0 1 has taken a fork
 0 1 has taken a fork
 0 1 is eating
-ret = 1
-ret = 0
-ret = 1
--->+++1
-ret = 1
-ret = 1
-ret = 0
-ret = 1
--->+++1
-ret = 1
-ret = 1
-ret = 0
-0 3 has taken a fork
-0 3 has taken a fork
-ret = 1
-0 3 is eating
--->+++1
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-200 3 is sleeping
-ret = 1
-ret = 0
-200 2 has taken a fork
-200 1 is sleeping
-ret = 1
-ret = 0
-200 2 has taken a fork
-200 2 is eating
-ret = 1
-ret = 0
-200 4 has taken a fork
-200 4 has taken a fork
-200 4 is eating
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-400 4 is sleeping
-ret = 1
-ret = 0
-400 1 is thinking
-ret = 1
-400 3 is thinking
-ret = 0
-ret = 1
-400 1 has taken a fork
-ret = 0
-400 2 is sleeping
-ret = 1
-ret = 0
-400 3 has taken a fork
-400 3 has taken a fork
-400 3 is eating
-ret = 1
-ret = 0
-400 1 has taken a fork
-400 1 is eating
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-600 2 is thinking
-ret = 1
-ret = 0
-600 1 is sleeping
-ret = 1
-ret = 0
-600 4 is thinking
-ret = 1
-ret = 0
-600 4 has taken a fork
-600 3 is sleeping
-ret = 1
-ret = 0
-600 2 has taken a fork
-600 2 has taken a fork
-600 2 is eating
-ret = 1
-ret = 0
-600 4 has taken a fork
-600 4 is eating
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 1
-ret = 0
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-ret = 1
-ret = 0
-800 3 is thinking
-ret = 1
-ret = 0
-800 1 is thinking
-ret = 1
-ret = 0
-800 4 is sleeping
-ret = 1
-ret = 0
-800 1 has taken a fork
-800 2 is sleeping
-ret = 1
-ret = 1
-BREAK BREAK BREAK 
-
-
-
-
-800 2 is thinking
-ret = 1
-ret = 1
-800 3 has taken a fork
-800 3 has taken a fork
-800 3 is eating
-ret = 1
-ret = 1
-BREAK BREAK BREAK 
-
-
-
-
-800 3 is sleeping
-ret = 1
-ret = 1
-BREAK BREAK BREAK 
-
-
-
-
-800 3 is thinking
-ret = 1
-ret = 1
-800 1 has taken a fork
-800 1 is eating
-ret = 1
-ret = 1
-BREAK BREAK BREAK 
-
-
-
-
-800 1 is sleeping
-ret = 1
-ret = 1
-BREAK BREAK BREAK 
-
-
-
-
-800 1 is thinking
-ret = 1
-ret = 1
-ret = 1
-ret = 1
-BREAK BREAK BREAK 
-
-
-
-
-801 4 is thinking
-ret = 1
-ret = 1
+0 51 has taken a fork
+0 51 has taken a fork
+0 51 is eating
+5 52 has taken a fork
+philo 59 ate 1 times of 1
+ret__________________________ 0
+ret__________________________ 1
+entré acá con el philo 59. Han comido 1
+ret__________________________ 1
+ret__________________________ 1
+philos who ate!! = 1
+philo 18 ate 1 times of 1
+ret__________________________ 1
+ret__________________________ 2
+entré acá con el philo 18. Han comido 2
+ret__________________________ 2
+ret__________________________ 2
+500 59 is sleeping
+philos who ate!! = 2
+500 58 has taken a fork
+philo 3 ate 1 times of 1
+ret__________________________ 2
+ret__________________________ 3
+entré acá con el philo 3. Han comido 3
+ret__________________________ 3
+500 18 is sleeping
+ret__________________________ 3
+philos who ate!! = 3
+500 17 has taken a fork
+500 4 has taken a fork
+500 4 is eating
+500 19 has taken a fork
+philo 57 ate 1 times of 1
+ret__________________________ 3
+ret__________________________ 4
+entré acá con el philo 57. Han comido 4
+ret__________________________ 4
+ret__________________________ 4
+philos who ate!! = 4
+500 2 has taken a fork
+philo 36 ate 1 times of 1
+ret__________________________ 4
+ret__________________________ 5
+500 19 has taken a fork
+entré acá con el philo 36. Han comido 5
+ret__________________________ 5
+ret__________________________ 5
+philos who ate!! = 5
+500 57 is sleeping
+500 36 is sleeping
+500 19 is eating
+500 58 has taken a fork
+philo 55 ate 1 times of 1
+500 58 is eating
+ret__________________________ 5
+philo 72 ate 1 times of 1
+500 17 is eating
+philo 62 ate 1 times of 1
+ret__________________________ 6
+ret__________________________ 7
+entré acá con el philo 62. Han comido 7
+ret__________________________ 7
+ret__________________________ 7
+philos who ate!! = 7
+ret__________________________ 7
+ret__________________________ 8
+entré acá con el philo 72. Han comido 8
+ret__________________________ 8
+ret__________________________ 8
+philos who ate!! = 8
+philo 49 ate 1 times of 1
+ret__________________________ 8
+ret__________________________ 9
+entré acá con el philo 49. Han comido 9
+ret__________________________ 9
+ret__________________________ 9
+philos who ate!! = 9
+philo 96 ate 1 times of 1
+ret__________________________ 9
+ret__________________________ 10
+entré acá con el philo 96. Han comido 10
+ret__________________________ 10
+philo 78 ate 1 times of 1
+ret__________________________ 10
+ret__________________________ 11
+entré acá con el philo 78. Han comido 11
+ret__________________________ 11
+ret__________________________ 11
+ret__________________________ 11
+500 37 has taken a fork
+philos who ate!! = 11
+philos who ate!! = 11
+500 37 has taken a fork
+500 96 is sleeping
+500 37 is eating
+500 79 has taken a fork
+philo 87 ate 1 times of 1
+ret__________________________ 11
+philo 82 ate 1 times of 1
+500 56 has taken a fork
+ret__________________________ 12
+entré acá con el philo 87. Han comido 12
+ret__________________________ 12
+ret__________________________ 12
+philos who ate!! = 12
+ret__________________________ 12
+500 61 has taken a fork
+ret__________________________ 13
+entré acá con el philo 82. Han comido 13
+ret__________________________ 13
+ret__________________________ 13
+philos who ate!! = 13
+500 61 is eating
+500 72 is sleeping
+500 82 is sleeping
+500 86 has taken a fork
+philo 8 ate 1 times of 1
+ret__________________________ 13
+500 63 has taken a fork
+ret__________________________ 6
+philo 30 ate 1 times of 1
+philo 64 ate 1 times of 1
+entré acá con el philo 55. Han comido 6
+ret__________________________ 14
+ret__________________________ 14
+ret__________________________ 15
+ret__________________________ 15
+entré acá con el philo 30. Han comido 15
+ret__________________________ 15
+ret__________________________ 15
+ret__________________________ 15
+philos who ate!! = 15
+ret__________________________ 16
+philos who ate!! = 15
+entré acá con el philo 64. Han comido 16
+500 71 has taken a fork
+ret__________________________ 16
+500 30 is sleeping
+ret__________________________ 16
+philos who ate!! = 16
+500 73 has taken a fork
+500 73 has taken a fork
+500 71 is eating
+philo 21 ate 1 times of 1
+500 73 is eating
+ret__________________________ 16
+500 54 has taken a fork
+ret__________________________ 17
+entré acá con el philo 21. Han comido 17
+ret__________________________ 17
+ret__________________________ 17
+philos who ate!! = 17
+500 97 has taken a fork
+500 97 has taken a fork
+500 54 has taken a fork
+500 97 is eating
+500 95 has taken a fork
+500 49 is sleeping
+500 95 is eating
+500 54 is eating
+philo 28 ate 1 times of 1
+ret__________________________ 17
+ret__________________________ 18
+entré acá con el philo 28. Han comido 18
+ret__________________________ 18
+ret__________________________ 18
+philos who ate!! = 18
+500 65 has taken a fork
+500 77 has taken a fork
+500 87 is sleeping
+500 28 is sleeping
+500 77 is eating
+500 56 has taken a fork
+philo 99 ate 1 times of 1
+500 27 has taken a fork
+ret__________________________ 18
+ret__________________________ 19
+entré acá con el philo 99. Han comido 19
+philo 6 ate 1 times of 1
+ret__________________________ 19
+ret__________________________ 19
+philos who ate!! = 19
+500 27 is eating
+ret__________________________ 19
+ret__________________________ 20
+entré acá con el philo 6. Han comido 20
+500 88 has taken a fork
+ret__________________________ 20
+ret__________________________ 20
+philos who ate!! = 20
+500 99 is sleeping
+philo 75 ate 1 times of 1
+ret__________________________ 20
+ret__________________________ 21
+entré acá con el philo 75. Han comido 21
+ret__________________________ 21
+500 6 is sleeping
+ret__________________________ 21
+philos who ate!! = 21
+philo 12 ate 1 times of 1
+ret__________________________ 21
+ret__________________________ 22
+entré acá con el philo 12. Han comido 22
+ret__________________________ 22
+philo 15 ate 1 times of 1
+ret__________________________ 22
+ret__________________________ 23
+entré acá con el philo 15. Han comido 23
+ret__________________________ 23
+ret__________________________ 23
+philos who ate!! = 23
+ret__________________________ 23
+philos who ate!! = 23
+philo 51 ate 1 times of 1
+philo 33 ate 1 times of 1
+ret__________________________ 23
+ret__________________________ 24
+entré acá con el philo 51. Han comido 24
+ret__________________________ 24
+philo 80 ate 1 times of 1
+ret__________________________ 24
+ret__________________________ 24
+philos who ate!! = 24
+philo 1 ate 1 times of 1
+philo 45 ate 1 times of 1
+ret__________________________ 25
+ret__________________________ 26
+entré acá con el philo 1. Han comido 26
+ret__________________________ 26
+ret__________________________ 26
+philos who ate!! = 26
+ret__________________________ 26
+ret__________________________ 27
+entré acá con el philo 45. Han comido 27
+ret__________________________ 27
+ret__________________________ 27
+philos who ate!! = 27
+philo 68 ate 1 times of 1
+philo 66 ate 1 times of 1
+ret__________________________ 25
+ret__________________________ 27
+ret__________________________ 28
+philo 23 ate 1 times of 1
+entré acá con el philo 33. Han comido 25
+entré acá con el philo 66. Han comido 28
+ret__________________________ 28
+ret__________________________ 29
+ret__________________________ 29
+ret__________________________ 29
+entré acá con el philo 23. Han comido 29
+ret__________________________ 29
+philos who ate!! = 29
+ret__________________________ 29
+ret__________________________ 29
+ret__________________________ 29
+philos who ate!! = 29
+philos who ate!! = 29
+ret__________________________ 29
+500 75 is sleeping
+ret__________________________ 30
+ret__________________________ 31
+entré acá con el philo 80. Han comido 31
+ret__________________________ 31
+ret__________________________ 31
+philos who ate!! = 31
+500 67 has taken a fork
+500 21 is sleeping
+500 3 is sleeping
+500 81 has taken a fork
+500 20 has taken a fork
+500 81 has taken a fork
+ret__________________________ 14
+500 24 has taken a fork
+entré acá con el philo 8. Han comido 14
+ret__________________________ 31
+500 81 is eating
+500 78 is sleeping
+ret__________________________ 31
+philos who ate!! = 31
+500 24 is eating
+500 74 has taken a fork
+500 48 has taken a fork
+500 98 has taken a fork
+philo 43 ate 1 times of 1
+ret__________________________ 31
+ret__________________________ 32
+500 23 is sleeping
+entré acá con el philo 43. Han comido 32
+ret__________________________ 32
+500 79 has taken a fork
+philo 47 ate 1 times of 1
+philo 85 ate 1 times of 1
+ret__________________________ 32
+ret__________________________ 33
+entré acá con el philo 85. Han comido 33
+ret__________________________ 33
+philo 39 ate 1 times of 1
+500 79 is eating
+ret__________________________ 33
+ret__________________________ 33
+philos who ate!! = 33
+ret__________________________ 33
+500 7 has taken a fork
+ret__________________________ 34
+entré acá con el philo 47. Han comido 34
+500 14 has taken a fork
+500 7 has taken a fork
+500 7 is eating
+500 14 has taken a fork
+500 85 is sleeping
+500 15 is sleeping
+500 14 is eating
+500 84 has taken a fork
+500 80 is sleeping
+500 11 has taken a fork
+500 50 has taken a fork
+ret__________________________ 34
+entré acá con el philo 39. Han comido 34
+philo 92 ate 1 times of 1
+ret__________________________ 34
+500 11 is eating
+ret__________________________ 32
+ret__________________________ 34
+500 1 is sleeping
+philos who ate!! = 32
+philos who ate!! = 34
+500 100 has taken a fork
+500 100 has taken a fork
+500 43 is sleeping
+500 52 has taken a fork
+500 9 has taken a fork
+ret__________________________ 30
+ret__________________________ 34
+500 100 is eating
+entré acá con el philo 68. Han comido 30
+ret__________________________ 35
+ret__________________________ 35
+entré acá con el philo 92. Han comido 35
+ret__________________________ 35
+ret__________________________ 35
+philos who ate!! = 35
+ret__________________________ 35
+ret__________________________ 35
+philos who ate!! = 35
+ret__________________________ 35
+philos who ate!! = 35
+500 52 is eating
+philo 41 ate 1 times of 1
+ret__________________________ 35
+ret__________________________ 36
+entré acá con el philo 41. Han comido 36
+ret__________________________ 36
+ret__________________________ 36
+philos who ate!! = 36
+500 41 is sleeping
+500 40 has taken a fork
+500 40 has taken a fork
+500 32 has taken a fork
+500 40 is eating
+500 66 is sleeping
+500 32 has taken a fork
+500 34 has taken a fork
+500 32 is eating
+500 22 has taken a fork
+500 22 has taken a fork
+500 22 is eating
+500 83 has taken a fork
+500 29 has taken a fork
+500 12 is sleeping
+500 29 has taken a fork
+500 29 is eating
+500 88 is eating
+500 63 has taken a fork
+500 63 is eating
+500 13 has taken a fork
+500 84 has taken a fork
+500 86 has taken a fork
+500 84 is eating
+500 50 has taken a fork
+500 86 is eating
+500 2 has taken a fork
+500 50 is eating
+500 2 is eating
+500 9 has taken a fork
+500 9 is eating
+500 51 is sleeping
+500 33 is sleeping
+500 38 has taken a fork
+500 45 is sleeping
+500 42 has taken a fork
+500 64 is sleeping
+500 42 has taken a fork
+500 42 is eating
+500 31 has taken a fork
+500 65 has taken a fork
+500 65 is eating
+500 92 is sleeping
+500 93 has taken a fork
+500 93 has taken a fork
+500 91 has taken a fork
+500 93 is eating
+500 91 is eating
+500 48 has taken a fork
+500 47 is sleeping
+500 48 is eating
+500 46 has taken a fork
+500 39 is sleeping
+500 56 is eating
+500 55 is sleeping
+500 68 is sleeping
+500 69 has taken a fork
+500 69 has taken a fork
+500 69 is eating
+500 67 has taken a fork
+500 34 is eating
+500 67 is eating
+500 62 is sleeping
+500 8 is sleeping
+500 44 has taken a fork
+500 44 has taken a fork
+500 44 is eating
+500 46 has taken a fork
+500 46 is eating
+philo 54 ate 1 times of 1
+ret__________________________ 36
+ret__________________________ 37
+entré acá con el philo 54. Han comido 37
+ret__________________________ 37
+ret__________________________ 37
+philos who ate!! = 37
+1000 54 is sleeping
+1000 8 is thinking
+1000 55 is thinking
+1000 55 has taken a fork
+philo 52 ate 1 times of 1
+ret__________________________ 37
+ret__________________________ 38
+entré acá con el philo 52. Han comido 38
+ret__________________________ 38
+philo 32 ate 1 times of 1
+ret__________________________ 38
+ret__________________________ 38
+philos who ate!! = 38
+ret__________________________ 39
+entré acá con el philo 32. Han comido 39
+ret__________________________ 39
+ret__________________________ 39
+philos who ate!! = 39
+philo 58 ate 1 times of 1
+ret__________________________ 39
+ret__________________________ 40
+entré acá con el philo 58. Han comido 40
+ret__________________________ 40
+1000 52 is sleeping
+ret__________________________ 40
+philos who ate!! = 40
+philo 65 ate 1 times of 1
+1000 32 is sleeping
+ret__________________________ 40
+ret__________________________ 41
+entré acá con el philo 65. Han comido 41
+ret__________________________ 41
+1000 58 is sleeping
+ret__________________________ 41
+philos who ate!! = 41
+1000 31 has taken a fork
+philo 22 ate 1 times of 1
+philo 24 ate 1 times of 1
+philo 81 ate 1 times of 1
+philo 95 ate 1 times of 1
+ret__________________________ 41
+ret__________________________ 41
+ret__________________________ 42
+entré acá con el philo 24. Han comido 42
+ret__________________________ 41
+philo 27 ate 1 times of 1
+ret__________________________ 42
+ret__________________________ 42
+ret__________________________ 43
+entré acá con el philo 95. Han comido 43
+ret__________________________ 43
+entré acá con el philo 81. Han comido 43
+ret__________________________ 43
+1000 53 has taken a fork
+entré acá con el philo 27. Han comido 43
+ret__________________________ 42
+ret__________________________ 43
+ret__________________________ 43
+philo 37 ate 1 times of 1
+ret__________________________ 43
+ret__________________________ 43
+ret__________________________ 44
+ret__________________________ 43
+philos who ate!! = 43
+philos who ate!! = 43
+entré acá con el philo 37. Han comido 44
+ret__________________________ 44
+ret__________________________ 44
+philos who ate!! = 44
+1000 53 has taken a fork
+ret__________________________ 44
+philo 77 ate 1 times of 1
+ret__________________________ 44
+philo 42 ate 1 times of 1
+ret__________________________ 45
+ret__________________________ 45
+entré acá con el philo 77. Han comido 45
+ret__________________________ 46
+ret__________________________ 46
+entré acá con el philo 42. Han comido 46
+philo 2 ate 1 times of 1
+philos who ate!! = 44
+ret__________________________ 46
+philos who ate!! = 46
+ret__________________________ 46
+ret__________________________ 46
+ret__________________________ 46
+ret__________________________ 47
+entré acá con el philo 2. Han comido 47
+ret__________________________ 47
+ret__________________________ 47
+philos who ate!! = 46
+philos who ate!! = 47
+philo 93 ate 1 times of 1
+ret__________________________ 47
+philo 71 ate 1 times of 1
+ret__________________________ 48
+ret__________________________ 48
+entré acá con el philo 93. Han comido 48
+ret__________________________ 49
+philo 17 ate 1 times of 1
+ret__________________________ 49
+entré acá con el philo 71. Han comido 49
+philo 73 ate 1 times of 1
+ret__________________________ 49
+ret__________________________ 49
+philos who ate!! = 49
+ret__________________________ 49
+ret__________________________ 49
+ret__________________________ 50
+ret__________________________ 50
+entré acá con el philo 17. Han comido 50
+ret__________________________ 50
+philos who ate!! = 50
+entré acá con el philo 73. Han comido 50
+ret__________________________ 50
+ret__________________________ 50
+ret__________________________ 50
+philos who ate!! = 50
+ret__________________________ 50
+philos who ate!! = 50
+philo 91 ate 1 times of 1
+ret__________________________ 50
+ret__________________________ 51
+ret__________________________ 44
+entré acá con el philo 91. Han comido 51
+ret__________________________ 51
+ret__________________________ 51
+philos who ate!! = 51
+entré acá con el philo 22. Han comido 44
+ret__________________________ 51
+ret__________________________ 51
+ret__________________________ 43
+philos who ate!! = 51
+ret__________________________ 51
+philos who ate!! = 51
+philo 50 ate 1 times of 1
+philo 34 ate 1 times of 1
+ret__________________________ 51
+ret__________________________ 52
+philo 40 ate 1 times of 1
+ret__________________________ 52
+ret__________________________ 53
+entré acá con el philo 50. Han comido 52
+entré acá con el philo 34. Han comido 53
+ret__________________________ 53
+ret__________________________ 53
+philo 97 ate 1 times of 1
+ret__________________________ 54
+ret__________________________ 54
+ret__________________________ 54
+ret__________________________ 54
+ret__________________________ 55
+philos who ate!! = 54
+ret__________________________ 54
+entré acá con el philo 40. Han comido 54
+ret__________________________ 55
+entré acá con el philo 97. Han comido 55
+philos who ate!! = 54
+ret__________________________ 55
+ret__________________________ 55
+philos who ate!! = 55
+1000 24 is sleeping
+ret__________________________ 55
+philos who ate!! = 55
+1000 34 is sleeping
+philo 88 ate 1 times of 1
+1000 35 has taken a fork
+ret__________________________ 55
+ret__________________________ 56
+1000 97 is sleeping
+entré acá con el philo 88. Han comido 56
+philo 84 ate 1 times of 1
+ret__________________________ 56
+ret__________________________ 56
+philos who ate!! = 56
+1000 35 has taken a fork
+ret__________________________ 56
+ret__________________________ 57
+entré acá con el philo 84. Han comido 57
+ret__________________________ 57
+1000 35 is eating
+1000 88 is sleeping
+ret__________________________ 57
+philos who ate!! = 57
+1000 98 has taken a fork
+1000 65 is sleeping
+philo 7 ate 1 times of 1
+1000 41 is thinking
+ret__________________________ 57
+1000 98 is eating
+ret__________________________ 58
+entré acá con el philo 7. Han comido 58
+ret__________________________ 58
+1000 23 is thinking
+ret__________________________ 58
+1000 41 has taken a fork
+1000 41 has taken a fork
+philos who ate!! = 58
+1000 89 has taken a fork
+1000 26 has taken a fork
+1000 27 is sleeping
+1000 41 is eating
+1000 7 is sleeping
+1000 95 is sleeping
+1000 89 has taken a fork
+1000 26 has taken a fork
+philo 67 ate 1 times of 1
+philo 79 ate 1 times of 1
+philo 9 ate 1 times of 1
+philo 100 ate 1 times of 1
+ret__________________________ 58
+ret__________________________ 58
+ret__________________________ 58
+ret__________________________ 59
+1000 26 is eating
+ret__________________________ 59
+ret__________________________ 59
+ret__________________________ 60
+entré acá con el philo 100. Han comido 60
+ret__________________________ 59
+ret__________________________ 59
+entré acá con el philo 9. Han comido 59
+ret__________________________ 59
+ret__________________________ 59
+entré acá con el philo 79. Han comido 59
+ret__________________________ 59
+entré acá con el philo 67. Han comido 59
+ret__________________________ 59
+ret__________________________ 59
+ret__________________________ 59
+philos who ate!! = 59
+philos who ate!! = 59
+philos who ate!! = 59
+1000 100 is sleeping
+ret__________________________ 59
+1000 67 is sleeping
+philos who ate!! = 59
+philo 61 ate 1 times of 1
+philo 69 ate 1 times of 1
+ret__________________________ 59
+ret__________________________ 59
+ret__________________________ 60
+1000 9 is sleeping
+ret__________________________ 60
+entré acá con el philo 69. Han comido 60
+entré acá con el philo 61. Han comido 60
+ret__________________________ 60
+ret__________________________ 60
+ret__________________________ 60
+philos who ate!! = 60
+1000 59 is thinking
+ret__________________________ 60
+philos who ate!! = 60
+1000 69 is sleeping
+1000 61 is sleeping
+1000 59 has taken a fork
+philo 29 ate 1 times of 1
+1000 59 has taken a fork
+ret__________________________ 60
+ret__________________________ 61
+1000 59 is eating
+entré acá con el philo 29. Han comido 61
+philo 56 ate 1 times of 1
+ret__________________________ 61
+ret__________________________ 61
+ret__________________________ 62
+entré acá con el philo 56. Han comido 62
+ret__________________________ 62
+ret__________________________ 62
+ret__________________________ 62
+1000 60 has taken a fork
+philos who ate!! = 62
+philos who ate!! = 62
+1000 29 is sleeping
+philo 4 ate 1 times of 1
+1000 56 is sleeping
+ret__________________________ 62
+1000 45 is thinking
+ret__________________________ 63
+entré acá con el philo 4. Han comido 63
+ret__________________________ 63
+1000 55 has taken a fork
+ret__________________________ 63
+philos who ate!! = 63
+1000 28 is thinking
+philo 44 ate 1 times of 1
+ret__________________________ 63
+ret__________________________ 64
+entré acá con el philo 44. Han comido 64
+ret__________________________ 64
+1000 5 has taken a fork
+1000 21 is thinking
+1000 5 has taken a fork
+1000 77 is sleeping
+1000 28 has taken a fork
+1000 2 is sleeping
+1000 5 is eating
+philo 48 ate 1 times of 1
+1000 28 has taken a fork
+ret__________________________ 64
+ret__________________________ 65
+entré acá con el philo 48. Han comido 65
+ret__________________________ 65
+1000 93 is sleeping
+1000 28 is eating
+ret__________________________ 65
+philos who ate!! = 65
+1000 76 has taken a fork
+1000 48 is sleeping
+1000 76 has taken a fork
+1000 82 is thinking
+1000 71 is sleeping
+1000 25 has taken a fork
+1000 17 is sleeping
+1000 70 has taken a fork
+philo 14 ate 1 times of 1
+ret__________________________ 65
+ret__________________________ 66
+entré acá con el philo 14. Han comido 66
+ret__________________________ 66
+ret__________________________ 66
+philos who ate!! = 66
+1000 70 has taken a fork
+1000 22 is sleeping
+1000 70 is eating
+1000 38 has taken a fork
+1000 47 is thinking
+1000 14 is sleeping
+1000 42 is sleeping
+1000 50 is sleeping
+1000 73 is sleeping
+1000 91 is sleeping
+philo 11 ate 1 times of 1
+1000 13 has taken a fork
+ret__________________________ 66
+ret__________________________ 67
+1000 94 has taken a fork
+entré acá con el philo 11. Han comido 67
+ret__________________________ 67
+1000 13 is eating
+1000 81 is sleeping
+ret__________________________ 67
+philos who ate!! = 67
+1000 96 is thinking
+1000 74 has taken a fork
+philo 63 ate 1 times of 1
+1000 10 has taken a fork
+ret__________________________ 67
+ret__________________________ 68
+entré acá con el philo 63. Han comido 68
+ret__________________________ 68
+ret__________________________ 68
+philos who ate!! = 68
+philo 46 ate 1 times of 1
+ret__________________________ 68
+ret__________________________ 69
+entré acá con el philo 46. Han comido 69
+ret__________________________ 69
+ret__________________________ 69
+philos who ate!! = 69
+philo 86 ate 1 times of 1
+ret__________________________ 69
+ret__________________________ 70
+entré acá con el philo 86. Han comido 70
+ret__________________________ 70
+ret__________________________ 70
+philos who ate!! = 70
+philo 19 ate 1 times of 1
+ret__________________________ 70
+ret__________________________ 71
+entré acá con el philo 19. Han comido 71
+ret__________________________ 71
+ret__________________________ 71
+philos who ate!! = 71
+ret__________________________ 71
+philos who ate!! = 71
+1000 15 is thinking
+1000 15 has taken a fork
+1000 15 has taken a fork
+1000 15 is eating
+1000 45 has taken a fork
+1000 45 has taken a fork
+1000 45 is eating
+1000 49 is thinking
+1000 49 has taken a fork
+1000 49 has taken a fork
+1000 49 is eating
+1000 72 is thinking
+1000 72 has taken a fork
+1000 72 has taken a fork
+1000 72 is eating
+1000 18 is thinking
+1000 18 has taken a fork
+1000 30 is thinking
+1000 99 is thinking
+1000 1 is thinking
+1000 1 has taken a fork
+1000 1 has taken a fork
+1000 1 is eating
+1000 51 is thinking
+1000 79 is sleeping
+1000 8 has taken a fork
+1000 8 has taken a fork
+1000 8 is eating
+1000 87 is thinking
+1000 55 is eating
+1000 87 has taken a fork
+1000 87 has taken a fork
+1000 87 is eating
+1000 4 is sleeping
+1000 76 is eating
+1000 31 is eating
+1000 75 is thinking
+1000 38 is eating
+1000 90 has taken a fork
+1000 83 has taken a fork
+1000 83 is eating
+1000 94 has taken a fork
+1000 94 is eating
+1000 89 is eating
+1000 11 is sleeping
+1000 16 has taken a fork
+1000 12 is thinking
+1000 37 is sleeping
+1000 53 is eating
+1000 74 is eating
+1000 96 has taken a fork
+1000 96 has taken a fork
+1000 10 has taken a fork
+1000 10 is eating
+1000 78 is thinking
+1000 78 has taken a fork
+1000 78 has taken a fork
+1000 84 is sleeping
+1000 80 is thinking
+1000 80 has taken a fork
+1000 80 has taken a fork
+1000 80 is eating
+1000 66 is thinking
+1000 66 has taken a fork
+1000 66 has taken a fork
+1000 64 is thinking
+1000 66 is eating
+1000 68 is thinking
+1000 40 is sleeping
+1000 68 has taken a fork
+1000 68 has taken a fork
+1000 57 is thinking
+1000 68 is eating
+1000 63 is sleeping
+1000 6 is thinking
+1000 57 has taken a fork
+1000 57 has taken a fork
+1000 36 is thinking
+1000 57 is eating
+1000 43 is thinking
+1000 6 has taken a fork
+1000 43 has taken a fork
+1000 43 has taken a fork
+1000 23 has taken a fork
+1000 46 is sleeping
+1000 85 is thinking
+1000 92 is thinking
+1000 23 has taken a fork
+1000 92 has taken a fork
+1000 92 has taken a fork
+1000 86 is sleeping
+1000 92 is eating
+1000 23 is eating
+1000 44 is sleeping
+1000 39 is thinking
+1000 62 is thinking
+1000 62 has taken a fork
+1000 62 has taken a fork
+1000 20 has taken a fork
+1000 62 is eating
+1000 18 has taken a fork
+1000 20 is eating
+1000 18 is eating
+1000 96 is eating
+1000 78 is eating
+1000 64 has taken a fork
+1000 36 has taken a fork
+1000 64 has taken a fork
+1000 33 is thinking
+1000 43 is eating
+1000 64 is eating
+1000 3 is thinking
+1000 19 is sleeping
+1000 3 has taken a fork
+1000 51 has taken a fork
+1000 85 has taken a fork
+1000 51 has taken a fork
+1000 51 is eating
+1000 3 has taken a fork
+1000 3 is eating
+1000 47 has taken a fork
+1000 85 has taken a fork
+1000 85 is eating
+1000 33 has taken a fork
+1000 47 has taken a fork
+1000 47 is eating
+1000 33 has taken a fork
+1000 33 is eating
+philo 55 ate 2 times of 1
+ret__________________________ 71
+philos who ate!! = 71
+philo 87 ate 2 times of 1
+philo 59 ate 2 times of 1
+philo 83 ate 1 times of 1
+1500 81 is thinking
+ret__________________________ 71
+ret__________________________ 72
+entré acá con el philo 83. Han comido 72
+ret__________________________ 71
+ret__________________________ 72
+ret__________________________ 72
+philos who ate!! = 72
+ret__________________________ 71
+philo 1 ate 2 times of 1
+philo 38 ate 1 times of 1
+ret__________________________ 72
+ret__________________________ 73
+entré acá con el philo 38. Han comido 73
+ret__________________________ 73
+ret__________________________ 73
+philos who ate!! = 73
+1500 83 is sleeping
+philos who ate!! = 71
+1500 38 is sleeping
+ret__________________________ 73
+philos who ate!! = 73
+1500 55 is sleeping
+philo 64 ate 2 times of 1
+philo 47 ate 2 times of 1
+ret__________________________ 73
+philos who ate!! = 73
+1500 97 is thinking
+1500 82 has taken a fork
+1500 82 has taken a fork
+1500 82 is eating
+ret__________________________ 73
+philos who ate!! = 73
+1500 37 is thinking
+1500 1 is sleeping
+1500 22 is thinking
+philo 96 ate 2 times of 1
+ret__________________________ 73
+philos who ate!! = 73
+1500 95 is thinking
+1500 96 is sleeping
+philos who ate!! = 71
+1500 39 has taken a fork
+philo 35 ate 1 times of 1
+ret__________________________ 73
+ret__________________________ 74
+entré acá con el philo 35. Han comido 74
+ret__________________________ 74
+1500 84 is thinking
+1500 39 has taken a fork
+ret__________________________ 74
+philos who ate!! = 74
+1500 59 is sleeping
+1500 52 is thinking
+1500 35 is sleeping
+1500 60 has taken a fork
+1500 60 is eating
+1500 64 is sleeping
+1500 32 is thinking
+1500 87 is sleeping
+1500 36 has taken a fork
+1500 86 is thinking
+1500 39 is eating
+philo 5 ate 1 times of 1
+ret__________________________ 74
+ret__________________________ 75
+entré acá con el philo 5. Han comido 75
+ret__________________________ 75
+1500 14 is thinking
+1500 86 has taken a fork
+ret__________________________ 75
+philos who ate!! = 75
+1500 36 is eating
+philo 74 ate 1 times of 1
+philo 31 ate 1 times of 1
+ret__________________________ 75
+ret__________________________ 76
+entré acá con el philo 74. Han comido 76
+ret__________________________ 76
+ret__________________________ 76
+ret__________________________ 76
+philos who ate!! = 76
+1500 73 is thinking
+ret__________________________ 77
+entré acá con el philo 31. Han comido 77
+ret__________________________ 77
+1500 97 has taken a fork
+1500 47 is sleeping
+ret__________________________ 77
+philos who ate!! = 77
+philo 80 ate 2 times of 1
+ret__________________________ 77
+philos who ate!! = 77
+philo 53 ate 1 times of 1
+philo 76 ate 1 times of 1
+ret__________________________ 77
+ret__________________________ 78
+ret__________________________ 78
+entré acá con el philo 53. Han comido 78
+ret__________________________ 79
+ret__________________________ 79
+entré acá con el philo 76. Han comido 79
+ret__________________________ 79
+philos who ate!! = 79
+1500 31 is sleeping
+ret__________________________ 79
+ret__________________________ 79
+philos who ate!! = 79
+1500 53 is sleeping
+1500 80 is sleeping
+philo 68 ate 2 times of 1
+ret__________________________ 79
+1500 76 is sleeping
+philos who ate!! = 79
+1500 68 is sleeping
+1500 4 is thinking
+1500 6 has taken a fork
+1500 75 has taken a fork
+1500 46 is thinking
+1500 4 has taken a fork
+1500 46 has taken a fork
+1500 75 has taken a fork
+1500 75 is eating
+1500 44 is thinking
+1500 6 is eating
+philo 26 ate 1 times of 1
+philo 43 ate 2 times of 1
+ret__________________________ 79
+ret__________________________ 80
+entré acá con el philo 26. Han comido 80
+1500 93 is thinking
+ret__________________________ 80
+ret__________________________ 80
+philos who ate!! = 80
+ret__________________________ 80
+philos who ate!! = 80
+1500 43 is sleeping
+1500 91 is thinking
+1500 71 is thinking
+1500 26 is sleeping
+1500 17 is thinking
+1500 67 is thinking
+1500 30 has taken a fork
+1500 74 is sleeping
+1500 34 is thinking
+1500 30 has taken a fork
+1500 25 has taken a fork
+1500 30 is eating
+1500 25 is eating
+1500 100 is thinking
+1500 34 has taken a fork
+1500 100 has taken a fork
+1500 65 is thinking
+philo 45 ate 2 times of 1
+1500 100 has taken a fork
+ret__________________________ 80
+philos who ate!! = 80
+1500 27 is thinking
+1500 65 has taken a fork
+1500 100 is eating
+1500 7 is thinking
+1500 44 has taken a fork
+philo 62 ate 2 times of 1
+philo 89 ate 1 times of 1
+1500 27 has taken a fork
+ret__________________________ 80
+ret__________________________ 81
+philo 13 ate 1 times of 1
+1500 44 has taken a fork
+ret__________________________ 81
+philo 57 ate 2 times of 1
+philo 51 ate 2 times of 1
+ret__________________________ 81
+philos who ate!! = 81
+philos who ate!! = 81
+ret__________________________ 81
+philos who ate!! = 81
+philo 66 ate 2 times of 1
+ret__________________________ 81
+philos who ate!! = 81
+philo 49 ate 2 times of 1
+1500 44 is eating
+ret__________________________ 81
+philos who ate!! = 81
+1500 42 is thinking
+1500 66 is sleeping
+1500 49 is sleeping
+1500 42 has taken a fork
+ret__________________________ 81
+1500 77 is thinking
+1500 63 is thinking
+ret__________________________ 82
+entré acá con el philo 13. Han comido 82
+ret__________________________ 82
+ret__________________________ 82
+1500 67 has taken a fork
+philos who ate!! = 82
+1500 50 is thinking
+1500 50 has taken a fork
+1500 50 has taken a fork
+1500 67 has taken a fork
+1500 50 is eating
+1500 13 is sleeping
+1500 69 is thinking
+1500 67 is eating
+philo 78 ate 2 times of 1
+ret__________________________ 82
+philos who ate!! = 82
+1500 46 has taken a fork
+philo 10 ate 1 times of 1
+1500 46 is eating
+1500 78 is sleeping
+ret__________________________ 82
+ret__________________________ 83
+entré acá con el philo 10. Han comido 83
+ret__________________________ 83
+ret__________________________ 83
+philos who ate!! = 83
+philo 20 ate 1 times of 1
+ret__________________________ 83
+1500 48 is thinking
+ret__________________________ 84
+entré acá con el philo 20. Han comido 84
+ret__________________________ 84
+ret__________________________ 84
+philos who ate!! = 84
+1500 11 is thinking
+1500 11 has taken a fork
+1500 11 has taken a fork
+1500 69 has taken a fork
+1500 48 has taken a fork
+philo 28 ate 2 times of 1
+1500 20 is sleeping
+ret__________________________ 84
+philos who ate!! = 84
+1500 48 has taken a fork
+philo 41 ate 2 times of 1
+1500 28 is sleeping
+ret__________________________ 84
+philos who ate!! = 84
+1500 48 is eating
+1500 54 is thinking
+philo 94 ate 1 times of 1
+1500 52 has taken a fork
+ret__________________________ 84
+ret__________________________ 85
+entré acá con el philo 94. Han comido 85
+philo 98 ate 1 times of 1
+ret__________________________ 85
+ret__________________________ 85
+ret__________________________ 86
+1500 52 has taken a fork
+entré acá con el philo 98. Han comido 86
+ret__________________________ 86
+ret__________________________ 86
+1500 88 is thinking
+philos who ate!! = 86
+ret__________________________ 86
+1500 52 is eating
+philos who ate!! = 86
+1500 54 has taken a fork
+1500 94 is sleeping
+1500 77 has taken a fork
+1500 2 is thinking
+1500 54 has taken a fork
+1500 77 has taken a fork
+1500 63 has taken a fork
+1500 97 has taken a fork
+1500 54 is eating
+1500 12 has taken a fork
+1500 63 has taken a fork
+1500 77 is eating
+1500 99 has taken a fork
+1500 97 is eating
+1500 63 is eating
+1500 51 is sleeping
+1500 27 has taken a fork
+1500 27 is eating
+1500 95 has taken a fork
+1500 21 has taken a fork
+1500 62 is sleeping
+1500 56 is thinking
+entré acá con el philo 89. Han comido 81
+1500 45 is sleeping
+ret__________________________ 86
+1500 56 has taken a fork
+ret__________________________ 86
+philos who ate!! = 86
+1500 95 has taken a fork
+1500 21 has taken a fork
+1500 11 is eating
+1500 95 is eating
+1500 21 is eating
+1500 56 has taken a fork
+1500 89 is sleeping
+1500 10 is sleeping
+1500 56 is eating
+1500 90 has taken a fork
+1500 41 is sleeping
+1500 81 has taken a fork
+1500 24 is thinking
+1500 40 is thinking
+philo 8 ate 2 times of 1
+1500 5 is sleeping
+ret__________________________ 86
+philos who ate!! = 86
+1500 40 has taken a fork
+1500 29 is thinking
+1500 8 is sleeping
+1500 90 is eating
+1500 29 has taken a fork
+1500 19 is thinking
+1500 58 is thinking
+1500 9 is thinking
+philo 70 ate 1 times of 1
+1500 42 has taken a fork
+ret__________________________ 86
+1500 42 is eating
+ret__________________________ 87
+1500 9 has taken a fork
+entré acá con el philo 70. Han comido 87
+ret__________________________ 87
+1500 58 has taken a fork
+ret__________________________ 87
+1500 65 has taken a fork
+philos who ate!! = 87
+1500 9 has taken a fork
+1500 58 has taken a fork
+1500 65 is eating
+1500 58 is eating
+1500 9 is eating
+1500 70 is sleeping
+1500 98 is sleeping
+philo 92 ate 2 times of 1
+ret__________________________ 87
+philos who ate!! = 87
+1500 71 has taken a fork
+philo 85 ate 2 times of 1
+1500 92 is sleeping
+ret__________________________ 87
+philos who ate!! = 87
+philo 18 ate 2 times of 1
+1500 93 has taken a fork
+ret__________________________ 87
+philos who ate!! = 87
+1500 85 is sleeping
+1500 93 has taken a fork
+1500 18 is sleeping
+1500 19 has taken a fork
+1500 93 is eating
+1500 19 has taken a fork
+1500 61 is thinking
+1500 86 has taken a fork
+philo 23 ate 2 times of 1
+1500 19 is eating
+philo 15 ate 2 times of 1
+1500 86 is eating
+ret__________________________ 87
+philos who ate!! = 87
+ret__________________________ 87
+philos who ate!! = 87
+1500 69 has taken a fork
+1500 69 is eating
+1500 23 is sleeping
+1500 84 has taken a fork
+1500 15 is sleeping
+philo 33 ate 2 times of 1
+1500 88 has taken a fork
+1500 84 has taken a fork
+ret__________________________ 87
+philos who ate!! = 87
+1500 88 has taken a fork
+1500 88 is eating
+1500 16 has taken a fork
+1500 16 is eating
+1500 32 has taken a fork
+1500 14 has taken a fork
+1500 57 is sleeping
+1500 32 has taken a fork
+1500 84 is eating
+1500 14 has taken a fork
+1500 79 is thinking
+1500 14 is eating
+1500 79 has taken a fork
+1500 32 is eating
+1500 79 has taken a fork
+1500 79 is eating
+philo 72 ate 2 times of 1
+ret__________________________ 87
+philos who ate!! = 87
+1500 33 is sleeping
+1500 72 is sleeping
+1500 22 has taken a fork
+1500 73 has taken a fork
+philo 3 ate 2 times of 1
+1500 73 has taken a fork
+ret__________________________ 87
+philos who ate!! = 87
+1500 71 has taken a fork
+1500 71 is eating
+1500 73 is eating
+1500 3 is sleeping
+1500 4 has taken a fork
+1500 4 is eating
+1500 34 has taken a fork
+1500 34 is eating
+1500 2 has taken a fork
+1500 2 has taken a fork
+1500 2 is eating
+philo 93 ate 2 times of 1
+philo 6 ate 2 times of 1
+ret__________________________ 87
+philos who ate!! = 87
+2000 80 is thinking
+2000 6 is sleeping
+2000 92 is thinking
+2000 7 has taken a fork
+2000 7 has taken a fork
+2000 7 is eating
+ret__________________________ 87
+philo 84 ate 2 times of 1
+philo 30 ate 2 times of 1
+ret__________________________ 87
+philo 71 ate 2 times of 1
+ret__________________________ 87
+philos who ate!! = 87
+philo 44 ate 2 times of 1
+ret__________________________ 87
+ret__________________________ 87
+philos who ate!! = 87
+philo 52 ate 2 times of 1
+philos who ate!! = 87
+ret__________________________ 87
+philos who ate!! = 87
+2000 96 is thinking
+philo 42 ate 2 times of 1
+ret__________________________ 87
+philos who ate!! = 87
+philo 82 ate 2 times of 1
+ret__________________________ 87
+philos who ate!! = 87
+2000 44 is sleeping
+2000 42 is sleeping
+philos who ate!! = 87
+2000 82 is sleeping
+2000 41 is thinking
+2000 93 is sleeping
+2000 1 is thinking
+2000 59 is thinking
+philo 39 ate 2 times of 1
+ret__________________________ 87
+philos who ate!! = 87
+2000 81 has taken a fork
+philo 19 ate 2 times of 1
+2000 39 is sleeping
+ret__________________________ 87
+philos who ate!! = 87
+philo 16 ate 1 times of 1
+philo 63 ate 2 times of 1
+ret__________________________ 87
+ret__________________________ 88
+ret__________________________ 88
+2000 81 is eating
+entré acá con el philo 16. Han comido 88
+philos who ate!! = 88
+ret__________________________ 88
+2000 84 is sleeping
+2000 40 has taken a fork
+philo 95 ate 2 times of 1
+ret__________________________ 88
+2000 40 is eating
+ret__________________________ 88
+philos who ate!! = 88
+philos who ate!! = 88
+2000 85 is thinking
+philos who ate!! = 87
+2000 95 is sleeping
+2000 31 is thinking
+2000 16 is sleeping
+2000 71 is sleeping
+2000 64 is thinking
+2000 52 is sleeping
+2000 29 has taken a fork
+2000 17 has taken a fork
+philo 86 ate 2 times of 1
+2000 29 is eating
+ret__________________________ 88
+philos who ate!! = 88
+philo 27 ate 2 times of 1
+2000 66 is thinking
+2000 68 is thinking
+2000 55 is thinking
+2000 74 is thinking
+2000 17 has taken a fork
+philo 88 ate 2 times of 1
+2000 85 has taken a fork
+2000 53 is thinking
+ret__________________________ 88
+philo 100 ate 2 times of 1
+philos who ate!! = 88
+2000 31 has taken a fork
+philo 4 ate 2 times of 1
+philo 34 ate 2 times of 1
+philo 48 ate 2 times of 1
+ret__________________________ 88
+philos who ate!! = 88
+ret__________________________ 88
+ret__________________________ 88
+philos who ate!! = 88
+ret__________________________ 88
+philos who ate!! = 88
+2000 48 is sleeping
+philos who ate!! = 88
+2000 34 is sleeping
+2000 4 is sleeping
+philo 56 ate 2 times of 1
+ret__________________________ 88
+philos who ate!! = 88
+2000 53 has taken a fork
+2000 100 is sleeping
+2000 56 is sleeping
+2000 99 has taken a fork
+2000 99 is eating
+2000 86 is sleeping
+philo 60 ate 1 times of 1
+2000 85 has taken a fork
+ret__________________________ 88
+2000 88 is sleeping
+ret__________________________ 89
+entré acá con el philo 60. Han comido 89
+ret__________________________ 89
+ret__________________________ 89
+2000 30 is sleeping
+philos who ate!! = 89
+philo 46 ate 2 times of 1
+2000 5 is thinking
+ret__________________________ 89
+philos who ate!! = 89
+philo 79 ate 2 times of 1
+2000 5 has taken a fork
+philo 90 ate 1 times of 1
+2000 60 is sleeping
+ret__________________________ 89
+2000 5 has taken a fork
+ret__________________________ 89
+ret__________________________ 90
+philos who ate!! = 89
+entré acá con el philo 90. Han comido 90
+2000 79 is sleeping
+philo 77 ate 2 times of 1
+2000 5 is eating
+ret__________________________ 90
+ret__________________________ 90
+philos who ate!! = 90
+2000 63 is sleeping
+ret__________________________ 90
+philos who ate!! = 90
+2000 87 is thinking
+2000 45 is thinking
+2000 78 is thinking
+2000 90 is sleeping
+2000 87 has taken a fork
+2000 87 has taken a fork
+2000 87 is eating
+2000 45 has taken a fork
+2000 78 has taken a fork
+2000 76 is thinking
+philo 97 ate 2 times of 1
+ret__________________________ 90
+philos who ate!! = 90
+2000 91 has taken a fork
+2000 76 has taken a fork
+2000 43 is thinking
+philo 25 ate 1 times of 1
+2000 61 has taken a fork
+ret__________________________ 90
+ret__________________________ 91
+entré acá con el philo 25. Han comido 91
+philo 69 ate 2 times of 1
+ret__________________________ 91
+2000 43 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+philo 2 ate 2 times of 1
+2000 61 has taken a fork
+2000 61 is eating
+ret__________________________ 91
+philos who ate!! = 91
+2000 25 is sleeping
+2000 43 has taken a fork
+2000 69 is sleeping
+2000 2 is sleeping
+2000 43 is eating
+2000 94 is thinking
+2000 94 has taken a fork
+2000 94 has taken a fork
+2000 24 has taken a fork
+2000 47 is thinking
+2000 85 is eating
+2000 62 is thinking
+2000 77 is sleeping
+2000 24 has taken a fork
+2000 47 has taken a fork
+2000 24 is eating
+2000 38 is thinking
+2000 47 has taken a fork
+2000 46 is sleeping
+2000 62 has taken a fork
+2000 38 has taken a fork
+2000 17 is eating
+2000 89 is thinking
+2000 91 has taken a fork
+2000 38 has taken a fork
+2000 28 is thinking
+2000 91 is eating
+2000 89 has taken a fork
+2000 94 is eating
+2000 89 has taken a fork
+2000 1 has taken a fork
+2000 89 is eating
+2000 68 has taken a fork
+2000 1 has taken a fork
+2000 38 is eating
+2000 78 has taken a fork
+2000 1 is eating
+2000 45 has taken a fork
+2000 23 is thinking
+2000 45 is eating
+2000 78 is eating
+2000 3 is thinking
+2000 97 is sleeping
+2000 47 is eating
+2000 10 is thinking
+2000 98 is thinking
+2000 3 has taken a fork
+philo 75 ate 2 times of 1
+2000 35 is thinking
+philo 9 ate 2 times of 1
+2000 3 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+2000 35 has taken a fork
+philo 21 ate 2 times of 1
+2000 70 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+2000 70 has taken a fork
+2000 21 is sleeping
+2000 70 has taken a fork
+philo 14 ate 2 times of 1
+ret__________________________ 91
+2000 74 has taken a fork
+philos who ate!! = 91
+2000 75 is sleeping
+2000 96 has taken a fork
+2000 22 has taken a fork
+2000 96 has taken a fork
+2000 76 has taken a fork
+2000 22 is eating
+2000 14 is sleeping
+2000 9 is sleeping
+2000 76 is eating
+2000 8 is thinking
+philo 36 ate 2 times of 1
+philo 65 ate 2 times of 1
+2000 26 is thinking
+philo 50 ate 2 times of 1
+2000 8 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+2000 50 is sleeping
+ret__________________________ 88
+2000 96 is eating
+2000 18 is thinking
+philos who ate!! = 88
+2000 18 has taken a fork
+2000 36 is sleeping
+2000 27 is sleeping
+2000 26 has taken a fork
+2000 35 has taken a fork
+2000 26 has taken a fork
+2000 26 is eating
+2000 35 is eating
+2000 19 is sleeping
+2000 49 is thinking
+2000 49 has taken a fork
+2000 33 is thinking
+philo 67 ate 2 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+2000 68 has taken a fork
+2000 57 is thinking
+2000 68 is eating
+philo 58 ate 2 times of 1
+2000 37 has taken a fork
+2000 92 has taken a fork
+2000 3 is eating
+2000 67 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+2000 49 has taken a fork
+philo 11 ate 2 times of 1
+philo 73 ate 2 times of 1
+2000 49 is eating
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+2000 59 has taken a fork
+2000 70 is eating
+2000 66 has taken a fork
+2000 59 has taken a fork
+2000 73 is sleeping
+2000 11 is sleeping
+2000 59 is eating
+2000 20 is thinking
+2000 58 is sleeping
+2000 12 has taken a fork
+2000 10 has taken a fork
+2000 20 has taken a fork
+2000 10 has taken a fork
+2000 12 is eating
+2000 74 has taken a fork
+2000 10 is eating
+ret__________________________ 91
+2000 74 is eating
+philos who ate!! = 91
+2000 57 has taken a fork
+2000 20 has taken a fork
+2000 57 has taken a fork
+2000 65 is sleeping
+2000 20 is eating
+2000 57 is eating
+2000 15 is thinking
+2000 66 has taken a fork
+2000 64 has taken a fork
+2000 66 is eating
+2000 64 has taken a fork
+2000 15 has taken a fork
+2000 64 is eating
+2000 15 has taken a fork
+2000 15 is eating
+2000 72 is thinking
+2000 72 has taken a fork
+2000 72 has taken a fork
+2000 72 is eating
+philo 32 ate 2 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+2000 83 is thinking
+2000 83 has taken a fork
+2000 83 has taken a fork
+2000 83 is eating
+2000 13 is thinking
+2000 32 is sleeping
+2000 31 has taken a fork
+2000 31 is eating
+philo 54 ate 2 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+2000 54 is sleeping
+2000 55 has taken a fork
+2000 55 has taken a fork
+2000 53 has taken a fork
+2000 53 is eating
+2000 55 is eating
+2000 51 is thinking
+2000 33 has taken a fork
+2000 33 has taken a fork
+2000 33 is eating
+2000 51 has taken a fork
+2000 51 has taken a fork
+2000 51 is eating
+philo 47 ate 3 times of 1
+2500 27 is thinking
+philo 59 ate 3 times of 1
+philo 55 ate 3 times of 1
+2500 60 is thinking
+ret__________________________ 91
+philo 10 ate 2 times of 1
+philos who ate!! = 91
+ret__________________________ 91
+2500 4 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+philos who ate!! = 91
+philo 17 ate 2 times of 1
+ret__________________________ 91
+2500 55 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+philos who ate!! = 91
+2500 10 is sleeping
+2500 39 is thinking
+2500 59 is sleeping
+2500 17 is sleeping
+2500 11 is thinking
+2500 19 is thinking
+2500 56 is thinking
+2500 18 has taken a fork
+philo 3 ate 3 times of 1
+philo 89 ate 2 times of 1
+ret__________________________ 91
+philo 76 ate 2 times of 1
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+2500 86 is thinking
+2500 2 is thinking
+2500 14 is thinking
+2500 2 has taken a fork
+2500 18 is eating
+philo 22 ate 2 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+2500 71 is thinking
+2500 11 has taken a fork
+2500 75 is thinking
+2500 22 is sleeping
+2500 23 has taken a fork
+2500 47 is sleeping
+2500 89 is sleeping
+2500 76 is sleeping
+2500 3 is sleeping
+philo 66 ate 3 times of 1
+philo 1 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+2500 6 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+philo 85 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+2500 77 is thinking
+philo 96 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+philo 64 ate 3 times of 1
+philo 29 ate 2 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+philo 38 ate 2 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+2500 77 has taken a fork
+philo 15 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+2500 15 is sleeping
+2500 38 is sleeping
+2500 14 has taken a fork
+2500 58 is thinking
+2500 39 has taken a fork
+2500 25 is thinking
+2500 82 is thinking
+2500 58 has taken a fork
+2500 2 has taken a fork
+2500 36 is thinking
+2500 46 is thinking
+2500 66 is sleeping
+2500 2 is eating
+2500 34 is thinking
+philo 5 ate 2 times of 1
+2500 44 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+2500 65 is thinking
+2500 65 has taken a fork
+2500 48 is thinking
+2500 5 is sleeping
+2500 65 has taken a fork
+2500 100 is thinking
+2500 88 is thinking
+philo 45 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+2500 100 has taken a fork
+2500 4 has taken a fork
+2500 45 is sleeping
+2500 4 has taken a fork
+2500 88 has taken a fork
+2500 44 has taken a fork
+2500 50 is thinking
+philo 68 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+2500 96 is sleeping
+2500 63 is thinking
+philo 78 ate 3 times of 1
+philo 26 ate 2 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+2500 90 is thinking
+2500 29 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+2500 78 is sleeping
+2500 97 is thinking
+2500 26 is sleeping
+philo 51 ate 3 times of 1
+2500 28 has taken a fork
+2500 64 is sleeping
+2500 14 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+2500 28 has taken a fork
+2500 28 is eating
+2500 21 is thinking
+2500 27 has taken a fork
+philo 53 ate 2 times of 1
+philo 7 ate 2 times of 1
+2500 51 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+philo 99 ate 2 times of 1
+philo 81 ate 2 times of 1
+2500 4 is eating
+ret__________________________ 91
+ret__________________________ 91
+philos who ate!! = 91
+2500 7 is sleeping
+philos who ate!! = 91
+2500 50 has taken a fork
+2500 54 is thinking
+philo 24 ate 2 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+2500 8 has taken a fork
+2500 99 is sleeping
+2500 81 is sleeping
+2500 24 is sleeping
+2500 8 is eating
+2500 23 has taken a fork
+philo 61 ate 2 times of 1
+philo 72 ate 3 times of 1
+2500 23 is eating
+ret__________________________ 91
+philos who ate!! = 91
+philo 43 ate 3 times of 1
+ret__________________________ 91
+philo 20 ate 2 times of 1
+philos who ate!! = 91
+ret__________________________ 91
+ret__________________________ 91
+philos who ate!! = 91
+2500 72 is sleeping
+philos who ate!! = 91
+2500 61 is sleeping
+2500 20 is sleeping
+2500 14 is eating
+philo 74 ate 2 times of 1
+philo 91 ate 2 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+2500 62 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+2500 62 is eating
+2500 21 has taken a fork
+2500 93 is thinking
+2500 60 has taken a fork
+2500 74 is sleeping
+2500 60 has taken a fork
+2500 91 is sleeping
+2500 60 is eating
+2500 21 has taken a fork
+2500 97 has taken a fork
+2500 21 is eating
+2500 54 has taken a fork
+2500 92 has taken a fork
+2500 9 is thinking
+2500 97 has taken a fork
+2500 54 has taken a fork
+2500 92 is eating
+2500 25 has taken a fork
+2500 54 is eating
+2500 97 is eating
+2500 77 has taken a fork
+2500 80 has taken a fork
+2500 77 is eating
+2500 75 has taken a fork
+2500 98 has taken a fork
+2500 95 is thinking
+2500 75 has taken a fork
+2500 6 has taken a fork
+2500 75 is eating
+2500 6 has taken a fork
+philo 94 ate 2 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+2500 44 has taken a fork
+2500 94 is sleeping
+2500 25 has taken a fork
+2500 6 is eating
+2500 25 is eating
+2500 44 is eating
+2500 53 is sleeping
+2500 37 has taken a fork
+2500 85 is sleeping
+2500 65 is eating
+2500 37 is eating
+2500 80 has taken a fork
+2500 95 has taken a fork
+2500 90 has taken a fork
+philo 49 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+2500 79 is thinking
+2500 90 has taken a fork
+2500 49 is sleeping
+2500 90 is eating
+2500 79 has taken a fork
+2500 100 has taken a fork
+2500 48 has taken a fork
+2500 50 has taken a fork
+2500 48 has taken a fork
+2500 50 is eating
+2500 100 is eating
+2500 48 is eating
+philo 35 ate 2 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+2500 32 is thinking
+2500 95 has taken a fork
+2500 35 is sleeping
+2500 95 is eating
+philo 83 ate 2 times of 1
+2500 69 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+2500 34 has taken a fork
+2500 83 is sleeping
+philo 12 ate 2 times of 1
+2500 80 is eating
+ret__________________________ 91
+philos who ate!! = 91
+2500 52 is thinking
+2500 46 has taken a fork
+2500 43 is sleeping
+2500 46 has taken a fork
+2500 52 has taken a fork
+2500 52 has taken a fork
+2500 52 is eating
+2500 12 is sleeping
+2500 46 is eating
+2500 11 has taken a fork
+2500 69 has taken a fork
+2500 11 is eating
+philo 57 ate 3 times of 1
+2500 82 has taken a fork
+2500 16 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+2500 1 is sleeping
+2500 16 has taken a fork
+2500 42 is thinking
+2500 73 is thinking
+2500 57 is sleeping
+2500 82 has taken a fork
+2500 42 has taken a fork
+2500 73 has taken a fork
+philo 70 ate 2 times of 1
+2500 42 has taken a fork
+2500 73 has taken a fork
+ret__________________________ 91
+2500 58 has taken a fork
+philos who ate!! = 91
+2500 82 is eating
+2500 73 is eating
+philo 87 ate 3 times of 1
+2500 70 is sleeping
+2500 58 is eating
+ret__________________________ 91
+philos who ate!! = 91
+2500 16 has taken a fork
+2500 16 is eating
+2500 86 has taken a fork
+2500 68 is sleeping
+2500 56 has taken a fork
+2500 87 is sleeping
+2500 69 has taken a fork
+2500 71 has taken a fork
+philo 40 ate 2 times of 1
+2500 13 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+2500 71 has taken a fork
+2500 69 is eating
+2500 84 is thinking
+2500 84 has taken a fork
+2500 56 has taken a fork
+2500 71 is eating
+2500 84 has taken a fork
+2500 56 is eating
+2500 40 is sleeping
+2500 86 has taken a fork
+2500 84 is eating
+2500 86 is eating
+2500 39 has taken a fork
+2500 41 has taken a fork
+philo 31 ate 2 times of 1
+2500 39 is eating
+ret__________________________ 91
+philos who ate!! = 91
+2500 67 is thinking
+2500 67 has taken a fork
+2500 31 is sleeping
+2500 88 has taken a fork
+2500 88 is eating
+2500 67 has taken a fork
+2500 42 is eating
+2500 67 is eating
+philo 33 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+2500 30 is thinking
+2500 30 has taken a fork
+2500 30 has taken a fork
+2500 33 is sleeping
+2500 30 is eating
+2500 32 has taken a fork
+2500 32 has taken a fork
+2500 32 is eating
+2500 34 has taken a fork
+2500 34 is eating
+3000 53 is thinking
+3000 24 is thinking
+3000 17 is thinking
+philo 23 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+3000 23 is sleeping
+philo 52 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+philo 6 ate 3 times of 1
+philo 25 ate 2 times of 1
+3000 52 is sleeping
+ret__________________________ 91
+ret__________________________ 91
+philos who ate!! = 91
+philo 65 ate 3 times of 1
+philos who ate!! = 91
+3000 25 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+3000 65 is sleeping
+3000 61 is thinking
+philo 90 ate 2 times of 1
+3000 6 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+3000 94 is thinking
+philo 97 ate 3 times of 1
+philo 54 ate 3 times of 1
+ret__________________________ 91
+ret__________________________ 91
+3000 90 is sleeping
+philos who ate!! = 91
+philos who ate!! = 91
+3000 54 is sleeping
+3000 97 is sleeping
+philo 18 ate 3 times of 1
+3000 24 has taken a fork
+3000 66 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+3000 15 is thinking
+3000 47 is thinking
+3000 68 is thinking
+3000 18 is sleeping
+3000 24 has taken a fork
+3000 98 has taken a fork
+3000 19 has taken a fork
+3000 83 is thinking
+3000 85 is thinking
+3000 19 has taken a fork
+3000 98 is eating
+3000 19 is eating
+3000 24 is eating
+3000 40 is thinking
+3000 20 is thinking
+3000 38 is thinking
+3000 53 has taken a fork
+3000 53 has taken a fork
+3000 53 is eating
+3000 45 is thinking
+3000 55 is thinking
+3000 55 has taken a fork
+philo 67 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+3000 66 has taken a fork
+3000 67 is sleeping
+3000 35 is thinking
+3000 78 is thinking
+3000 49 is thinking
+3000 66 has taken a fork
+3000 66 is eating
+philo 44 ate 3 times of 1
+philo 73 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+philo 100 ate 3 times of 1
+3000 44 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+philo 42 ate 3 times of 1
+3000 73 is sleeping
+3000 100 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+3000 42 is sleeping
+3000 41 has taken a fork
+3000 41 is eating
+3000 45 has taken a fork
+3000 70 is thinking
+philo 34 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+3000 74 is thinking
+philo 8 ate 3 times of 1
+3000 34 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+philo 11 ate 3 times of 1
+philo 95 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+3000 8 is sleeping
+3000 9 has taken a fork
+3000 11 is sleeping
+3000 95 is sleeping
+3000 9 has taken a fork
+3000 9 is eating
+3000 94 has taken a fork
+3000 91 is thinking
+3000 94 has taken a fork
+3000 35 has taken a fork
+3000 91 has taken a fork
+3000 35 has taken a fork
+3000 35 is eating
+3000 94 is eating
+philo 56 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+3000 43 is thinking
+3000 56 is sleeping
+3000 43 has taken a fork
+3000 43 has taken a fork
+3000 55 has taken a fork
+3000 55 is eating
+3000 72 is thinking
+3000 43 is eating
+3000 72 has taken a fork
+philo 21 ate 3 times of 1
+philo 60 ate 2 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+3000 60 is sleeping
+3000 29 is thinking
+3000 21 is sleeping
+3000 57 is thinking
+3000 96 is thinking
+3000 57 has taken a fork
+3000 20 has taken a fork
+3000 96 has taken a fork
+3000 96 has taken a fork
+3000 89 is thinking
+3000 96 is eating
+3000 61 has taken a fork
+philo 82 ate 3 times of 1
+philo 75 ate 3 times of 1
+3000 10 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+3000 10 has taken a fork
+philo 32 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+3000 75 is sleeping
+3000 32 is sleeping
+3000 7 is thinking
+3000 87 is thinking
+3000 74 has taken a fork
+3000 22 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+3000 7 has taken a fork
+philo 69 ate 3 times of 1
+3000 64 is thinking
+philo 88 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+3000 82 is sleeping
+3000 64 has taken a fork
+3000 7 has taken a fork
+3000 7 is eating
+3000 22 has taken a fork
+3000 69 is sleeping
+3000 64 has taken a fork
+3000 22 has taken a fork
+philo 14 ate 3 times of 1
+ret__________________________ 91
+3000 1 is thinking
+philos who ate!! = 91
+3000 88 is sleeping
+3000 51 is thinking
+philo 39 ate 3 times of 1
+ret__________________________ 91
+3000 14 is sleeping
+philos who ate!! = 91
+3000 22 is eating
+philo 48 ate 3 times of 1
+3000 1 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+philo 62 ate 3 times of 1
+3000 39 is sleeping
+philo 58 ate 3 times of 1
+3000 13 has taken a fork
+ret__________________________ 91
+ret__________________________ 91
+philos who ate!! = 91
+philos who ate!! = 91
+philo 2 ate 3 times of 1
+ret__________________________ 91
+3000 13 is eating
+philos who ate!! = 91
+3000 62 is sleeping
+3000 68 has taken a fork
+3000 2 is sleeping
+3000 63 has taken a fork
+3000 68 has taken a fork
+philo 92 ate 3 times of 1
+3000 58 is sleeping
+ret__________________________ 91
+3000 68 is eating
+philos who ate!! = 91
+3000 76 is thinking
+3000 1 has taken a fork
+3000 1 is eating
+3000 12 is thinking
+philo 4 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+philo 46 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+3000 92 is sleeping
+3000 46 is sleeping
+3000 47 has taken a fork
+3000 47 has taken a fork
+3000 47 is eating
+philo 71 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+3000 64 is eating
+philo 16 ate 2 times of 1
+3000 45 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+3000 45 is eating
+3000 93 has taken a fork
+philo 28 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+3000 16 is sleeping
+3000 81 is thinking
+3000 48 is sleeping
+philo 80 ate 3 times of 1
+3000 28 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+3000 61 has taken a fork
+3000 81 has taken a fork
+3000 80 is sleeping
+3000 81 has taken a fork
+philo 37 ate 2 times of 1
+3000 81 is eating
+3000 79 has taken a fork
+ret__________________________ 91
+3000 79 is eating
+philos who ate!! = 91
+3000 74 has taken a fork
+3000 91 has taken a fork
+3000 37 is sleeping
+3000 91 is eating
+3000 74 is eating
+3000 26 is thinking
+3000 29 has taken a fork
+3000 36 has taken a fork
+3000 3 is thinking
+3000 59 is thinking
+3000 99 is thinking
+3000 71 is sleeping
+3000 59 has taken a fork
+3000 59 has taken a fork
+3000 4 is sleeping
+3000 59 is eating
+philo 50 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+3000 3 has taken a fork
+philo 77 ate 3 times of 1
+philo 86 ate 3 times of 1
+3000 50 is sleeping
+ret__________________________ 91
+ret__________________________ 91
+philos who ate!! = 91
+philos who ate!! = 91
+3000 61 is eating
+3000 89 has taken a fork
+3000 27 has taken a fork
+3000 86 is sleeping
+3000 3 has taken a fork
+3000 76 has taken a fork
+3000 77 is sleeping
+3000 87 has taken a fork
+3000 3 is eating
+3000 38 has taken a fork
+3000 87 has taken a fork
+3000 17 has taken a fork
+3000 38 has taken a fork
+3000 17 has taken a fork
+3000 87 is eating
+3000 38 is eating
+3000 89 has taken a fork
+3000 17 is eating
+3000 72 has taken a fork
+3000 76 has taken a fork
+3000 57 has taken a fork
+3000 72 is eating
+3000 27 is eating
+3000 83 has taken a fork
+3000 57 is eating
+3000 89 is eating
+philo 84 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+3000 76 is eating
+3000 70 has taken a fork
+3000 70 has taken a fork
+3000 85 has taken a fork
+3000 84 is sleeping
+3000 85 has taken a fork
+philo 30 ate 3 times of 1
+3000 70 is eating
+ret__________________________ 91
+philos who ate!! = 91
+3000 51 has taken a fork
+3000 85 is eating
+3000 51 has taken a fork
+3000 5 is thinking
+3000 30 is sleeping
+3000 51 is eating
+3000 29 has taken a fork
+3000 29 is eating
+3000 5 has taken a fork
+3000 83 has taken a fork
+3000 31 is thinking
+3000 5 has taken a fork
+3000 31 has taken a fork
+3000 83 is eating
+3000 31 has taken a fork
+3000 31 is eating
+3000 15 has taken a fork
+3000 5 is eating
+3000 15 has taken a fork
+3000 15 is eating
+3000 33 is thinking
+3000 33 has taken a fork
+3000 33 has taken a fork
+3000 33 is eating
+3000 49 has taken a fork
+3000 49 has taken a fork
+3000 49 is eating
+philo 64 ate 4 times of 1
+3500 28 is thinking
+philo 9 ate 3 times of 1
+philo 24 ate 3 times of 1
+ret__________________________ 91
+ret__________________________ 91
+philos who ate!! = 91
+philos who ate!! = 91
+ret__________________________ 91
+3500 24 is sleeping
+philos who ate!! = 91
+philo 1 ate 4 times of 1
+3500 9 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+philo 59 ate 4 times of 1
+3500 10 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+3500 86 is thinking
+philo 29 ate 3 times of 1
+3500 10 is eating
+ret__________________________ 91
+philos who ate!! = 91
+philo 19 ate 3 times of 1
+3500 63 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+3500 63 is eating
+3500 28 has taken a fork
+3500 19 is sleeping
+philo 79 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+3500 1 is sleeping
+3500 82 is thinking
+3500 20 has taken a fork
+3500 79 is sleeping
+3500 39 is thinking
+3500 20 is eating
+3500 64 is sleeping
+3500 37 is thinking
+philo 94 ate 3 times of 1
+ret__________________________ 91
+philo 87 ate 4 times of 1
+philos who ate!! = 91
+philo 96 ate 4 times of 1
+philo 13 ate 2 times of 1
+ret__________________________ 91
+ret__________________________ 91
+philos who ate!! = 91
+3500 46 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+philos who ate!! = 91
+philo 66 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+3500 93 has taken a fork
+3500 93 is eating
+philo 72 ate 4 times of 1
+3500 13 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+3500 50 is thinking
+3500 72 is sleeping
+3500 29 is sleeping
+3500 12 has taken a fork
+3500 12 has taken a fork
+3500 59 is sleeping
+3500 92 is thinking
+3500 67 is thinking
+3500 12 is eating
+3500 8 is thinking
+3500 67 has taken a fork
+3500 4 is thinking
+3500 8 has taken a fork
+3500 32 is thinking
+3500 58 is thinking
+3500 78 has taken a fork
+3500 16 is thinking
+3500 96 is sleeping
+3500 58 has taken a fork
+3500 78 has taken a fork
+3500 75 is thinking
+3500 78 is eating
+philo 98 ate 2 times of 1
+3500 66 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+3500 14 is thinking
+philo 57 ate 4 times of 1
+3500 18 is thinking
+3500 18 has taken a fork
+3500 98 is sleeping
+philo 61 ate 3 times of 1
+philo 43 ate 4 times of 1
+3500 34 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+3500 43 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+philo 49 ate 4 times of 1
+3500 87 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+3500 61 is sleeping
+philos who ate!! = 91
+3500 100 is thinking
+3500 71 is thinking
+philo 85 ate 4 times of 1
+3500 57 is sleeping
+ret__________________________ 91
+philo 51 ate 4 times of 1
+3500 90 is thinking
+3500 99 has taken a fork
+philo 22 ate 3 times of 1
+3500 99 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+3500 22 is sleeping
+philos who ate!! = 91
+3500 49 is sleeping
+3500 56 is thinking
+philo 5 ate 3 times of 1
+3500 51 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+3500 58 has taken a fork
+3500 58 is eating
+3500 50 has taken a fork
+3500 50 has taken a fork
+philos who ate!! = 91
+3500 50 is eating
+philo 27 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+3500 85 is sleeping
+3500 99 is eating
+philo 81 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+3500 69 is thinking
+3500 27 is sleeping
+3500 4 has taken a fork
+3500 81 is sleeping
+3500 95 is thinking
+3500 56 has taken a fork
+philo 47 ate 4 times of 1
+3500 80 is thinking
+3500 95 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+3500 80 has taken a fork
+3500 26 has taken a fork
+3500 11 is thinking
+3500 26 has taken a fork
+3500 80 has taken a fork
+3500 95 has taken a fork
+3500 47 is sleeping
+3500 80 is eating
+philo 41 ate 3 times of 1
+3500 95 is eating
+ret__________________________ 91
+3500 30 is thinking
+philos who ate!! = 91
+3500 94 is sleeping
+philo 89 ate 3 times of 1
+3500 23 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+3500 2 is thinking
+3500 89 is sleeping
+3500 40 has taken a fork
+3500 41 is sleeping
+3500 40 has taken a fork
+philo 3 ate 4 times of 1
+philo 45 ate 4 times of 1
+ret__________________________ 91
+3500 26 is eating
+ret__________________________ 91
+philos who ate!! = 91
+philos who ate!! = 91
+3500 40 is eating
+3500 62 is thinking
+3500 45 is sleeping
+3500 5 is sleeping
+3500 3 is sleeping
+3500 28 has taken a fork
+philo 33 ate 4 times of 1
+3500 46 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+3500 28 is eating
+3500 77 is thinking
+3500 23 has taken a fork
+3500 23 has taken a fork
+3500 23 is eating
+philo 76 ate 3 times of 1
+3500 4 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+3500 33 is sleeping
+3500 88 is thinking
+3500 76 is sleeping
+3500 4 is eating
+3500 32 has taken a fork
+3500 100 has taken a fork
+3500 44 is thinking
+3500 77 has taken a fork
+3500 2 has taken a fork
+3500 46 has taken a fork
+philo 17 ate 3 times of 1
+philo 70 ate 3 times of 1
+3500 86 has taken a fork
+ret__________________________ 91
+3500 86 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+philos who ate!! = 91
+3500 46 is eating
+3500 70 is sleeping
+3500 86 is eating
+3500 88 has taken a fork
+3500 16 has taken a fork
+3500 71 has taken a fork
+philo 74 ate 3 times of 1
+3500 88 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+philo 91 ate 3 times of 1
+3500 2 has taken a fork
+3500 88 is eating
+ret__________________________ 91
+philos who ate!! = 91
+3500 2 is eating
+3500 75 has taken a fork
+3500 75 has taken a fork
+3500 52 is thinking
+3500 75 is eating
+philo 53 ate 3 times of 1
+3500 91 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+3500 44 has taken a fork
+3500 74 is sleeping
+3500 53 is sleeping
+3500 71 has taken a fork
+3500 44 has taken a fork
+3500 44 is eating
+3500 71 is eating
+3500 48 is thinking
+philo 7 ate 3 times of 1
+ret__________________________ 91
+3500 52 has taken a fork
+philos who ate!! = 91
+3500 48 has taken a fork
+3500 90 has taken a fork
+3500 48 has taken a fork
+3500 52 has taken a fork
+3500 90 has taken a fork
+3500 7 is sleeping
+3500 90 is eating
+3500 48 is eating
+3500 73 is thinking
+philo 68 ate 4 times of 1
+3500 73 has taken a fork
+3500 8 has taken a fork
+philo 83 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+3500 17 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+3500 60 is thinking
+philo 38 ate 3 times of 1
+ret__________________________ 91
+3500 68 is sleeping
+philos who ate!! = 91
+3500 82 has taken a fork
+3500 52 is eating
+3500 60 has taken a fork
+3500 60 has taken a fork
+3500 18 has taken a fork
+3500 39 has taken a fork
+3500 8 is eating
+3500 60 is eating
+3500 38 is sleeping
+3500 18 is eating
+3500 73 has taken a fork
+3500 25 is thinking
+3500 73 is eating
+3500 82 has taken a fork
+3500 67 has taken a fork
+3500 67 is eating
+3500 82 is eating
+3500 21 is thinking
+3500 25 has taken a fork
+philo 35 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+3500 97 is thinking
+3500 83 is sleeping
+3500 69 has taken a fork
+3500 97 has taken a fork
+3500 97 has taken a fork
+3500 97 is eating
+3500 34 has taken a fork
+3500 34 has taken a fork
+3500 69 has taken a fork
+3500 34 is eating
+3500 65 is thinking
+3500 69 is eating
+3500 65 has taken a fork
+3500 65 has taken a fork
+3500 36 has taken a fork
+3500 35 is sleeping
+3500 65 is eating
+3500 36 is eating
+3500 54 is thinking
+3500 84 is thinking
+3500 84 has taken a fork
+3500 84 has taken a fork
+3500 84 is eating
+3500 42 is thinking
+3500 42 has taken a fork
+3500 42 has taken a fork
+3500 42 is eating
+philo 15 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+3500 15 is sleeping
+3500 16 has taken a fork
+3500 16 is eating
+3500 6 is thinking
+3500 6 has taken a fork
+3500 14 has taken a fork
+3500 6 has taken a fork
+3500 6 is eating
+3500 14 has taken a fork
+philo 31 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+3500 31 is sleeping
+3500 14 is eating
+3500 32 has taken a fork
+3500 32 is eating
+philo 55 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+3500 55 is sleeping
+3500 30 has taken a fork
+3500 54 has taken a fork
+3500 30 has taken a fork
+3500 54 has taken a fork
+3500 56 has taken a fork
+3500 54 is eating
+3500 30 is eating
+3500 56 is eating
+philo 30 ate 4 times of 1
+4000 49 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+4000 30 is sleeping
+4000 59 is thinking
+philo 28 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+4000 72 is thinking
+4000 28 is sleeping
+philo 2 ate 4 times of 1
+4000 7 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+4000 2 is sleeping
+4000 81 is thinking
+philo 36 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+philo 78 ate 4 times of 1
+philo 80 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+4000 36 is sleeping
+4000 78 is sleeping
+philo 44 ate 4 times of 1
+4000 41 is thinking
+philo 58 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+philo 84 ate 4 times of 1
+4000 44 is sleeping
+philo 20 ate 3 times of 1
+4000 58 is sleeping
+ret__________________________ 91
+4000 77 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+4000 37 has taken a fork
+4000 77 is eating
+4000 37 has taken a fork
+4000 20 is sleeping
+4000 37 is eating
+philos who ate!! = 91
+4000 84 is sleeping
+4000 81 has taken a fork
+philo 4 ate 4 times of 1
+philo 46 ate 4 times of 1
+4000 21 has taken a fork
+4000 21 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+4000 21 is eating
+philo 8 ate 4 times of 1
+ret__________________________ 91
+ret__________________________ 91
+philos who ate!! = 91
+4000 46 is sleeping
+philos who ate!! = 91
+4000 59 has taken a fork
+4000 8 is sleeping
+4000 80 is sleeping
+4000 4 is sleeping
+philo 32 ate 4 times of 1
+philo 73 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+philo 95 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+4000 32 is sleeping
+4000 95 is sleeping
+philo 69 ate 4 times of 1
+philo 23 ate 4 times of 1
+4000 73 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+4000 79 is thinking
+philo 48 ate 4 times of 1
+4000 69 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+4000 79 has taken a fork
+4000 72 has taken a fork
+4000 48 is sleeping
+4000 79 has taken a fork
+4000 85 is thinking
+4000 29 is thinking
+4000 79 is eating
+4000 85 has taken a fork
+4000 23 is sleeping
+4000 24 is thinking
+philo 75 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+4000 61 is thinking
+philo 67 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+4000 75 is sleeping
+4000 67 is sleeping
+4000 9 is thinking
+philo 16 ate 3 times of 1
+philo 99 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+philo 10 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+philo 50 ate 4 times of 1
+philo 12 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+philo 65 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+philo 60 ate 3 times of 1
+philo 90 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+philo 6 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+philo 26 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+4000 9 has taken a fork
+4000 61 has taken a fork
+4000 26 is sleeping
+4000 61 has taken a fork
+4000 25 has taken a fork
+4000 9 has taken a fork
+philo 71 ate 4 times of 1
+4000 25 is eating
+philo 93 ate 3 times of 1
+4000 61 is eating
+ret__________________________ 91
+ret__________________________ 91
+philos who ate!! = 91
+philos who ate!! = 91
+4000 9 is eating
+4000 29 has taken a fork
+4000 64 is thinking
+philo 18 ate 4 times of 1
+4000 93 is sleeping
+ret__________________________ 91
+4000 29 has taken a fork
+philos who ate!! = 91
+4000 35 is thinking
+4000 10 is sleeping
+4000 29 is eating
+4000 18 is sleeping
+4000 50 is sleeping
+4000 92 has taken a fork
+4000 16 is sleeping
+4000 92 has taken a fork
+4000 92 is eating
+philo 86 ate 4 times of 1
+4000 99 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+4000 91 is thinking
+4000 100 has taken a fork
+4000 86 is sleeping
+philo 34 ate 4 times of 1
+4000 91 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+4000 100 is eating
+4000 55 is thinking
+4000 34 is sleeping
+philo 56 ate 4 times of 1
+4000 90 is sleeping
+ret__________________________ 91
+4000 22 is thinking
+philos who ate!! = 91
+4000 3 is thinking
+4000 56 is sleeping
+4000 35 has taken a fork
+4000 3 has taken a fork
+4000 22 has taken a fork
+4000 31 is thinking
+philo 52 ate 4 times of 1
+4000 19 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+4000 31 has taken a fork
+4000 31 has taken a fork
+4000 19 has taken a fork
+4000 74 is thinking
+4000 52 is sleeping
+4000 74 has taken a fork
+4000 19 has taken a fork
+4000 31 is eating
+philo 88 ate 4 times of 1
+4000 74 has taken a fork
+4000 68 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+4000 74 is eating
+4000 88 is sleeping
+4000 68 has taken a fork
+4000 59 has taken a fork
+4000 89 is thinking
+4000 64 has taken a fork
+4000 89 has taken a fork
+4000 12 is sleeping
+4000 68 has taken a fork
+4000 68 is eating
+4000 89 has taken a fork
+4000 11 has taken a fork
+4000 89 is eating
+4000 72 has taken a fork
+4000 87 is thinking
+4000 85 has taken a fork
+4000 11 has taken a fork
+4000 72 is eating
+4000 85 is eating
+4000 87 has taken a fork
+4000 11 is eating
+4000 87 has taken a fork
+4000 87 is eating
+4000 35 has taken a fork
+4000 76 is thinking
+4000 98 is thinking
+4000 71 is sleeping
+4000 3 has taken a fork
+4000 60 is sleeping
+4000 98 has taken a fork
+4000 3 is eating
+4000 51 is thinking
+4000 7 has taken a fork
+4000 43 is thinking
+4000 5 is thinking
+4000 51 has taken a fork
+4000 59 is eating
+4000 5 has taken a fork
+4000 51 has taken a fork
+4000 7 has taken a fork
+4000 51 is eating
+4000 27 is thinking
+4000 35 is eating
+4000 17 is thinking
+4000 7 is eating
+4000 27 has taken a fork
+4000 96 is thinking
+4000 47 is thinking
+philo 82 ate 4 times of 1
+4000 66 is thinking
+ret__________________________ 91
+philo 63 ate 3 times of 1
+4000 66 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+philos who ate!! = 91
+4000 49 has taken a fork
+4000 1 is thinking
+4000 82 is sleeping
+4000 49 has taken a fork
+4000 47 has taken a fork
+4000 63 is sleeping
+4000 47 has taken a fork
+4000 13 is thinking
+4000 49 is eating
+4000 13 has taken a fork
+4000 66 has taken a fork
+4000 81 has taken a fork
+4000 19 is eating
+4000 81 is eating
+4000 62 has taken a fork
+4000 57 is thinking
+4000 66 is eating
+philo 40 ate 3 times of 1
+4000 65 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+4000 64 has taken a fork
+4000 57 has taken a fork
+4000 64 is eating
+4000 47 is eating
+4000 57 has taken a fork
+philo 54 ate 4 times of 1
+4000 40 is sleeping
+4000 57 is eating
+ret__________________________ 91
+4000 27 has taken a fork
+philos who ate!! = 91
+4000 17 has taken a fork
+4000 5 has taken a fork
+4000 54 is sleeping
+4000 5 is eating
+4000 17 has taken a fork
+4000 27 is eating
+4000 39 has taken a fork
+4000 17 is eating
+4000 6 is sleeping
+4000 39 is eating
+4000 55 has taken a fork
+philo 14 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+4000 55 has taken a fork
+4000 55 is eating
+4000 41 has taken a fork
+4000 94 is thinking
+4000 14 is sleeping
+4000 45 is thinking
+4000 94 has taken a fork
+4000 94 has taken a fork
+4000 45 has taken a fork
+4000 94 is eating
+philo 42 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+4000 13 has taken a fork
+4000 45 has taken a fork
+4000 13 is eating
+4000 45 is eating
+4000 42 is sleeping
+4000 70 is thinking
+4000 70 has taken a fork
+4000 53 is thinking
+4000 70 has taken a fork
+4000 53 has taken a fork
+4000 70 is eating
+4000 83 is thinking
+4000 53 has taken a fork
+4000 83 has taken a fork
+4000 83 has taken a fork
+4000 53 is eating
+4000 83 is eating
+philo 97 ate 4 times of 1
+4000 33 is thinking
+4000 33 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+4000 33 has taken a fork
+4000 33 is eating
+4000 98 has taken a fork
+4000 98 is eating
+4000 15 is thinking
+4000 97 is sleeping
+4000 15 has taken a fork
+4000 15 has taken a fork
+4000 15 is eating
+4000 38 is thinking
+4000 43 has taken a fork
+4000 43 has taken a fork
+4000 43 is eating
+4000 41 has taken a fork
+4000 96 has taken a fork
+4000 96 has taken a fork
+4000 41 is eating
+4000 96 is eating
+4500 36 is thinking
+4500 8 is thinking
+4500 18 is thinking
+philo 92 ate 4 times of 1
+philo 61 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+philo 41 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+philo 45 ate 5 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+philo 74 ate 4 times of 1
+philo 89 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+philo 53 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+philo 29 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+philo 49 ate 5 times of 1
+philo 77 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+philo 7 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+philo 11 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+philo 31 ate 4 times of 1
+philo 21 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+philo 39 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+philo 64 ate 5 times of 1
+ret__________________________ 91
+philo 87 ate 5 times of 1
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+philo 35 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+philo 57 ate 5 times of 1
+philo 37 ate 3 times of 1
+philo 59 ate 5 times of 1
+philo 79 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+philo 94 ate 4 times of 1
+ret__________________________ 91
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+philos who ate!! = 91
+philo 96 ate 5 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+philo 68 ate 5 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+philo 51 ate 5 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+philo 85 ate 5 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+philo 19 ate 4 times of 1
+philo 15 ate 5 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+philo 43 ate 5 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+4500 61 is sleeping
+philo 98 ate 3 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+philo 17 ate 4 times of 1
+ret__________________________ 91
+4500 98 is sleeping
+philos who ate!! = 91
+4500 17 is sleeping
+4500 32 is thinking
+4500 92 is sleeping
+philo 27 ate 4 times of 1
+ret__________________________ 91
+4500 28 is thinking
+philos who ate!! = 91
+philo 9 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+4500 27 is sleeping
+4500 9 is sleeping
+4500 54 is thinking
+4500 41 is sleeping
+4500 28 has taken a fork
+4500 28 has taken a fork
+4500 8 has taken a fork
+4500 6 is thinking
+4500 28 is eating
+4500 88 is thinking
+4500 6 has taken a fork
+philo 25 ate 3 times of 1
+4500 8 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+4500 88 has taken a fork
+4500 88 has taken a fork
+4500 20 is thinking
+4500 8 is eating
+4500 88 is eating
+4500 50 is thinking
+4500 25 is sleeping
+4500 91 has taken a fork
+4500 50 has taken a fork
+4500 99 is thinking
+4500 91 is eating
+4500 50 has taken a fork
+4500 97 is thinking
+4500 99 has taken a fork
+4500 50 is eating
+4500 24 has taken a fork
+4500 97 has taken a fork
+4500 45 is sleeping
+4500 90 is thinking
+4500 44 is thinking
+4500 24 has taken a fork
+4500 40 is thinking
+4500 24 is eating
+philo 55 ate 5 times of 1
+4500 31 is sleeping
+ret__________________________ 91
+4500 21 is sleeping
+philos who ate!! = 91
+4500 53 is sleeping
+4500 55 is sleeping
+4500 11 is sleeping
+4500 74 is sleeping
+4500 23 is thinking
+4500 77 is sleeping
+4500 80 is thinking
+4500 22 has taken a fork
+4500 14 is thinking
+4500 39 is sleeping
+4500 49 is sleeping
+philo 72 ate 5 times of 1
+4500 22 is eating
+ret__________________________ 91
+philos who ate!! = 91
+4500 14 has taken a fork
+4500 72 is sleeping
+4500 64 is sleeping
+philo 81 ate 4 times of 1
+ret__________________________ 91
+4500 16 is thinking
+philos who ate!! = 91
+4500 59 is sleeping
+4500 16 has taken a fork
+4500 65 is thinking
+4500 84 is thinking
+philo 13 ate 3 times of 1
+4500 65 has taken a fork
+4500 80 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+4500 84 has taken a fork
+4500 57 is sleeping
+4500 14 has taken a fork
+4500 14 is eating
+4500 54 has taken a fork
+philo 83 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+4500 93 is thinking
+4500 54 has taken a fork
+4500 54 is eating
+4500 83 is sleeping
+4500 93 has taken a fork
+philo 47 ate 5 times of 1
+4500 84 has taken a fork
+4500 93 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+4500 93 is eating
+philo 3 ate 5 times of 1
+4500 84 is eating
+4500 75 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+4500 68 is sleeping
+4500 51 is sleeping
+4500 75 has taken a fork
+4500 3 is sleeping
+4500 63 is thinking
+4500 95 is thinking
+philo 5 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+4500 95 has taken a fork
+4500 19 is sleeping
+4500 18 has taken a fork
+4500 95 has taken a fork
+4500 6 has taken a fork
+4500 62 has taken a fork
+4500 18 has taken a fork
+4500 18 is eating
+4500 6 is eating
+4500 12 is thinking
+4500 62 is eating
+4500 15 is sleeping
+4500 12 has taken a fork
+4500 60 is thinking
+4500 73 is thinking
+4500 10 is thinking
+4500 60 has taken a fork
+4500 12 has taken a fork
+4500 73 has taken a fork
+4500 60 has taken a fork
+4500 10 has taken a fork
+4500 60 is eating
+4500 73 has taken a fork
+4500 67 is thinking
+4500 89 is sleeping
+4500 97 has taken a fork
+4500 73 is eating
+4500 10 has taken a fork
+4500 97 is eating
+4500 79 is sleeping
+4500 20 has taken a fork
+4500 10 is eating
+4500 40 has taken a fork
+4500 29 is sleeping
+philo 70 ate 4 times of 1
+4500 56 is thinking
+4500 40 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+4500 70 is sleeping
+4500 40 is eating
+philo 33 ate 5 times of 1
+4500 2 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+4500 38 has taken a fork
+4500 33 is sleeping
+4500 52 is thinking
+4500 2 has taken a fork
+4500 38 has taken a fork
+4500 85 is sleeping
+4500 2 has taken a fork
+4500 32 has taken a fork
+4500 32 has taken a fork
+4500 2 is eating
+4500 36 has taken a fork
+4500 96 is sleeping
+4500 38 is eating
+4500 32 is eating
+4500 36 has taken a fork
+4500 75 has taken a fork
+4500 34 is thinking
+4500 36 is eating
+4500 86 is thinking
+4500 34 has taken a fork
+philo 100 ate 4 times of 1
+4500 4 is thinking
+ret__________________________ 91
+4500 34 has taken a fork
+philos who ate!! = 91
+4500 34 is eating
+4500 86 has taken a fork
+4500 4 has taken a fork
+4500 44 has taken a fork
+4500 100 is sleeping
+4500 86 has taken a fork
+4500 26 is thinking
+4500 44 has taken a fork
+4500 4 has taken a fork
+4500 20 has taken a fork
+4500 26 has taken a fork
+4500 44 is eating
+4500 26 has taken a fork
+4500 4 is eating
+4500 20 is eating
+4500 99 has taken a fork
+4500 99 is eating
+4500 26 is eating
+4500 76 has taken a fork
+4500 7 is sleeping
+4500 37 is sleeping
+4500 1 has taken a fork
+4500 75 is eating
+4500 42 is thinking
+4500 80 has taken a fork
+4500 56 has taken a fork
+4500 12 is eating
+4500 56 has taken a fork
+4500 80 is eating
+4500 42 has taken a fork
+4500 56 is eating
+4500 35 is sleeping
+4500 42 has taken a fork
+4500 43 is sleeping
+4500 71 is thinking
+4500 71 has taken a fork
+4500 42 is eating
+4500 69 is thinking
+4500 13 is sleeping
+4500 71 has taken a fork
+4500 86 is eating
+4500 71 is eating
+4500 82 is thinking
+4500 95 is eating
+4500 69 has taken a fork
+4500 47 is sleeping
+4500 48 is thinking
+4500 69 has taken a fork
+4500 48 has taken a fork
+4500 69 is eating
+4500 16 has taken a fork
+4500 87 is sleeping
+4500 52 has taken a fork
+4500 52 has taken a fork
+4500 48 has taken a fork
+4500 16 is eating
+4500 5 is sleeping
+4500 48 is eating
+4500 52 is eating
+4500 30 is thinking
+4500 58 is thinking
+4500 30 has taken a fork
+4500 30 has taken a fork
+4500 30 is eating
+4500 58 has taken a fork
+4500 58 has taken a fork
+4500 58 is eating
+4500 46 is thinking
+4500 82 has taken a fork
+4500 78 is thinking
+4500 82 has taken a fork
+4500 78 has taken a fork
+4500 78 has taken a fork
+4500 78 is eating
+4500 46 has taken a fork
+4500 46 has taken a fork
+4500 82 is eating
+4500 81 is sleeping
+4500 46 is eating
+philo 66 ate 5 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+4500 65 has taken a fork
+4500 66 is sleeping
+4500 65 is eating
+4500 67 has taken a fork
+4500 67 has taken a fork
+4500 67 is eating
+4500 94 is sleeping
+philo 99 ate 4 times of 1
+philo 38 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+5000 39 is thinking
+5000 38 is sleeping
+philo 75 ate 5 times of 1
+5000 37 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+philo 73 ate 5 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+5000 73 is sleeping
+5000 39 has taken a fork
+5000 55 is thinking
+5000 72 is thinking
+philo 12 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+5000 99 is sleeping
+5000 76 has taken a fork
+5000 72 has taken a fork
+5000 5 is thinking
+philo 93 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+5000 93 is sleeping
+philo 88 ate 5 times of 1
+5000 21 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+philo 10 ate 4 times of 1
+5000 88 is sleeping
+philo 28 ate 5 times of 1
+philo 60 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+ret__________________________ 91
+philos who ate!! = 91
+5000 28 is sleeping
+philos who ate!! = 91
+5000 98 is thinking
+philo 14 ate 5 times of 1
+5000 10 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+5000 98 has taken a fork
+5000 14 is sleeping
+5000 60 is sleeping
+5000 12 is sleeping
+philo 8 ate 5 times of 1
+5000 76 is eating
+ret__________________________ 91
+philos who ate!! = 91
+5000 70 is thinking
+5000 8 is sleeping
+5000 75 is sleeping
+5000 59 is thinking
+5000 17 is thinking
+5000 27 is thinking
+5000 81 is thinking
+philo 58 ate 5 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+5000 45 is thinking
+5000 35 is thinking
+5000 58 is sleeping
+philo 30 ate 5 times of 1
+5000 25 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+philo 2 ate 5 times of 1
+5000 30 is sleeping
+ret__________________________ 91
+philos who ate!! = 91
+5000 59 has taken a fork
+5000 2 is sleeping
+5000 59 has taken a fork
+5000 77 is thinking
+philo 20 ate 4 times of 1
+5000 1 has taken a fork
+5000 59 is eating
+ret__________________________ 91
+5000 66 is thinking
+philos who ate!! = 91
+5000 20 is sleeping
+philo 78 ate 5 times of 1
+5000 1 is eating
+5000 21 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+5000 11 is thinking
+5000 11 has taken a fork
+5000 11 has taken a fork
+5000 78 is sleeping
+5000 11 is eating
+5000 31 is thinking
+5000 31 has taken a fork
+5000 79 is thinking
+philo 71 ate 5 times of 1
+5000 79 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+philo 6 ate 5 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+5000 70 has taken a fork
+5000 6 is sleeping
+5000 71 is sleeping
+5000 72 has taken a fork
+5000 72 is eating
+5000 87 is thinking
+5000 43 is thinking
+5000 33 is thinking
+philo 56 ate 5 times of 1
+philo 46 ate 5 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+ret__________________________ 91
+philos who ate!! = 91
+5000 46 is sleeping
+5000 56 is sleeping
+philo 48 ate 5 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+5000 61 is thinking
+5000 61 has taken a fork
+5000 48 is sleeping
+philo 52 ate 5 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+5000 52 is sleeping
+philo 16 ate 4 times of 1
+5000 29 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+5000 29 has taken a fork
+5000 29 has taken a fork
+5000 29 is eating
+5000 16 is sleeping
+5000 17 has taken a fork
+philo 44 ate 5 times of 1
+ret__________________________ 91
+5000 100 is thinking
+philos who ate!! = 91
+5000 45 has taken a fork
+5000 45 has taken a fork
+5000 44 is sleeping
+5000 45 is eating
+5000 9 is thinking
+5000 64 is thinking
+5000 9 has taken a fork
+5000 9 has taken a fork
+5000 9 is eating
+philo 84 ate 5 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+5000 84 is sleeping
+5000 89 is thinking
+5000 89 has taken a fork
+5000 89 has taken a fork
+philo 34 ate 5 times of 1
+5000 96 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+5000 34 is sleeping
+5000 89 is eating
+philo 97 ate 5 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+5000 35 has taken a fork
+5000 97 is sleeping
+5000 96 has taken a fork
+5000 98 has taken a fork
+5000 98 is eating
+philo 32 ate 5 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+5000 32 is sleeping
+5000 33 has taken a fork
+5000 33 has taken a fork
+5000 31 has taken a fork
+5000 33 is eating
+5000 31 is eating
+5000 51 is thinking
+philo 50 ate 5 times of 1
+5000 68 is thinking
+philo 91 ate 4 times of 1
+5000 94 is thinking
+ret__________________________ 91
+philos who ate!! = 91
+5000 50 is sleeping
+ret__________________________ 91
+5000 57 is thinking
+philos who ate!! = 91
+5000 51 has taken a fork
+philo 26 ate 4 times of 1
+5000 57 has taken a fork
+ret__________________________ 91
+5000 51 has taken a fork
+philos who ate!! = 91
+5000 90 has taken a fork
+5000 26 is sleeping
+philo 65 ate 5 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+5000 27 has taken a fork
+philo 82 ate 5 times of 1
+5000 27 has taken a fork
+5000 51 is eating
+ret__________________________ 91
+philos who ate!! = 91
+5000 64 has taken a fork
+5000 91 is sleeping
+5000 27 is eating
+5000 64 has taken a fork
+5000 64 is eating
+5000 13 is thinking
+5000 82 is sleeping
+5000 57 has taken a fork
+philo 69 ate 5 times of 1
+philo 95 ate 5 times of 1
+ret__________________________ 91
+ret__________________________ 91
+philos who ate!! = 91
+philos who ate!! = 91
+5000 13 has taken a fork
+philo 67 ate 5 times of 1
+5000 13 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+5000 69 is sleeping
+5000 13 is eating
+5000 67 is sleeping
+philo 86 ate 5 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+philo 22 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+5000 95 is sleeping
+5000 65 is sleeping
+5000 57 is eating
+philo 62 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+5000 22 is sleeping
+5000 94 has taken a fork
+5000 96 has taken a fork
+5000 96 is eating
+5000 68 has taken a fork
+5000 94 has taken a fork
+philo 24 ate 4 times of 1
+5000 62 is sleeping
+ret__________________________ 91
+5000 94 is eating
+philos who ate!! = 91
+5000 3 is thinking
+philo 18 ate 5 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+5000 63 has taken a fork
+5000 24 is sleeping
+5000 68 has taken a fork
+5000 25 has taken a fork
+5000 18 is sleeping
+5000 25 has taken a fork
+5000 86 is sleeping
+5000 68 is eating
+5000 21 has taken a fork
+5000 21 is eating
+5000 66 has taken a fork
+philo 42 ate 5 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+5000 25 is eating
+5000 23 has taken a fork
+philo 40 ate 4 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+5000 42 is sleeping
+5000 23 has taken a fork
+5000 40 is sleeping
+5000 3 has taken a fork
+5000 19 is thinking
+5000 66 has taken a fork
+5000 7 is thinking
+5000 39 has taken a fork
+5000 19 has taken a fork
+philo 36 ate 4 times of 1
+5000 39 is eating
+ret__________________________ 91
+philo 4 ate 5 times of 1
+philos who ate!! = 91
+5000 19 has taken a fork
+ret__________________________ 91
+philos who ate!! = 91
+5000 7 has taken a fork
+5000 19 is eating
+5000 74 is thinking
+5000 83 is thinking
+5000 83 has taken a fork
+5000 83 has taken a fork
+5000 83 is eating
+philo 54 ate 5 times of 1
+ret__________________________ 91
+philos who ate!! = 91
+5000 74 has taken a fork
+5000 54 is sleeping
+5000 3 has taken a fork
+5000 3 is eating
+5000 43 has taken a fork
+5000 66 is eating
+5000 4 is sleeping
+5000 43 has taken a fork
+5000 43 is eating
+5000 37 has taken a fork
+5000 23 is ea

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   free.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
+/*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/14 23:26:11 by anfi              #+#    #+#             */
-/*   Updated: 2024/08/20 22:49:16 by anfi             ###   ########.fr       */
+/*   Updated: 2024/08/21 18:07:11 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -35,10 +35,11 @@ void	ft_free(t_philo *philo, t_data *data)
 	i = -1;
 	pthread_mutex_destroy(&data->data_mutex);
 	pthread_mutex_destroy(&data->write_mutex);
+	pthread_mutex_destroy(&data->total_meals_mutex);
 	while (++i < data->total_philos)
 	{
-		philo[i].last_meal = data->start_time;
-		pthread_join(philo[i].thread, NULL);
+		// if (philo[i].thread)
+		// 	pthread_join(philo[i].thread, NULL);
 		pthread_mutex_destroy(&data->forks[i]);
 	}
 	pthread_join(*data->monitor, NULL);
