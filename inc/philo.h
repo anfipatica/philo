@@ -6,7 +6,7 @@
 /*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/06 13:54:28 by anfi              #+#    #+#             */
-/*   Updated: 2024/09/02 22:40:37 by anfi             ###   ########.fr       */
+/*   Updated: 2024/09/02 23:58:12 by anfi             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -100,66 +100,72 @@ typedef struct	s_philo
 }				t_philo;
 
 
-/* validation.c*/
+/* validation.c
+Functions to validate the arguments received*/
 
 int	validate_arguments(char **argv);
 int	validate_argv(char *argv);
 
+/* init.c
+	Functions to initialice the values inside the t_data and t_philo structs*/
+
+void	assign_forks(t_philo *philo, pthread_mutex_t *forks, int i);
+t_data	*init_data(int argc, char **argv);
+t_philo	*init_philos(t_data *data, t_philo *philo);
+void	init_mutex(t_data *data, t_philo *philo);
 
 /*utils.c
-	A couple of util functions from libft, since libft is not allowed.
-*/
+	A couple of auxiliar util functions, some from the libft
+	and other couple specifically made for this project.*/
 
 void	*ft_calloc(size_t nitems, size_t size);
 int		ft_atoi(const char *s);
 unsigned long	get_time(void);
-void	safe_mutex_handle(pthread_mutex_t *mutex, t_mutex mutex_option);
-void	precise_usleep(unsigned long milliseconds, t_data *data);
+void	own_msleep(unsigned long milliseconds, t_data *data);
+void	wait_all_threads(t_data *data);
+
+/*philo.c
+	Where the main is.
+	Is also where the thread create function is, meaning it's the beginning
+	of the dinner simulation.*/
+
+int	dinner_start(t_data *data, t_philo *philo);
+int	main(int argc, char **argv);
 
 
+/*monitor.c
+	The functions used by the monitoring thread to work
+	and check the dinner status*/
 
-/* init.c
-
- */
-t_data	*init_data(int argc, char **argv);
-t_philo	*init_philos(t_data *data, t_philo *philo);
-
-/* free.c
-
-*/
-
-void	ft_free(t_philo *philo, t_data *data);
+t_bool	meal_continues(t_data *data);
+void *monitor_function(void *data_void);
+t_bool	check_if_dead(t_philo *philo);
 
 
 /* getters_setters.c
-*/
+	A couple of short functions to safely check booleans
+	in order to avoid data races.*/
 
 void	set_bool(pthread_mutex_t *mutex, t_bool *bool, t_bool value);
 t_bool	get_bool(pthread_mutex_t *mutex, t_bool *bool);
-void	set_long(pthread_mutex_t *mutex, long *dest, long value);
-long	get_long(pthread_mutex_t *mutex, long *value);
-t_bool	meal_continues(t_data *data);
-void	set_int(pthread_mutex_t *mutex, int *dest, int value);
-int		get_int(pthread_mutex_t *mutex, int *value);
 
-/** actions.c */
+/* actions.c 
+	The actions followed by our philosophers.*/
 
-int		dinner_start(t_data *data, t_philo *philo);
-void	*eat_sleep_repeat(void *philo_void);
-void	wait_all_threads(t_data *data);
+void	check_if_full(t_philo *philo, t_data *data);
 void	*eat_one_philo(void *philo_voi);
 void	eat(t_philo *philo, t_data *data);
-
-
-/** monitor.c */
-
-void *monitor_function(void *data_void);
+void	*eat_sleep_repeat(void *philo_void);
 
 /** print_funtions.c */
 
 int		error_exit(int error);
 void	print_status(t_state state, t_philo *philo);
 
+/* free.c
 
+*/
+
+void	ft_free(t_philo *philo, t_data *data);
 
 #endif

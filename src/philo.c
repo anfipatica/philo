@@ -6,14 +6,14 @@
 /*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/06 13:55:37 by anfi              #+#    #+#             */
-/*   Updated: 2024/09/02 22:26:53 by anfi             ###   ########.fr       */
+/*   Updated: 2024/09/02 23:41:54 by anfi             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../inc/philo.h"
 
-// n_philosophers, data_to_die, data_to_eat, data_to_sleep, [number_of_data_each_philo_must_eat]
-
+/**The function that will create and join every needed thread.
+* From here the dinner simulation will begin and the monitor will be called*/
 int	dinner_start(t_data *data, t_philo *philo)
 {
 	int	i;
@@ -58,6 +58,7 @@ int	main(int argc, char **argv)
 		philos = init_philos(data, philos);
 		if (!philos)
 			return (error_exit(MALLOC_ERROR));
+		init_mutex(data, philos);
 		dinner_start(data, philos);
 		ft_free(philos, data);
 	}

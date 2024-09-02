@@ -6,12 +6,14 @@
 /*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/14 23:13:38 by anfi              #+#    #+#             */
-/*   Updated: 2024/09/02 22:14:35 by anfi             ###   ########.fr       */
+/*   Updated: 2024/09/02 23:38:54 by anfi             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../inc/philo.h"
 
+/**This functions assigns the first and second fork the philo will try to grab
+ * based on wether it's index is an odd number or not to avoid deadlocks. */
 void	assign_forks(t_philo *philo, pthread_mutex_t *forks, int i)
 {
 	//if there is only one philo could this lead to problems??? aparently not but ????
@@ -28,6 +30,26 @@ void	assign_forks(t_philo *philo, pthread_mutex_t *forks, int i)
 
 }
 
+/**This function initialices every mutex needed for the program
+ * to properly work*/
+void	init_mutex(t_data *data, t_philo *philo)
+{
+	int	i;
+
+	i = -1;
+	pthread_mutex_init(&data->all_alive_mutex, NULL);
+	pthread_mutex_init(&data->all_ate_mutex, NULL);
+	pthread_mutex_init(&data->all_ready_mutex, NULL);
+	pthread_mutex_init(&data->write_mutex, NULL);
+	pthread_mutex_init(&data->philos_full_mutex, NULL);
+	while (++i < data->total_philos)
+	{
+		pthread_mutex_init(&data->forks[i], NULL);
+		pthread_mutex_init(&philo[i].last_meal_mutex, NULL);
+	}
+}
+
+/**This function initialices the data inside the t_philo struct*/
 t_philo	*init_philos(t_data *data, t_philo *philo)
 {
 	int	i;
@@ -38,23 +60,19 @@ t_philo	*init_philos(t_data *data, t_philo *philo)
 		return (free(data->forks), free(data), NULL);
 	while (++i < data->total_philos)
 	{
-		pthread_mutex_init(&data->forks[i], NULL);
-		pthread_mutex_init(&philo[i].last_meal_mutex, NULL);
 		philo[i].last_meal = 0;
 		philo[i].times_eaten = 0;
 		philo[i].index = i + 1;
 		philo[i].data = data;
-
-		if (i + 1 == data->total_philos)
-			philo[i].target_philo = &philo[0];
-		else
-			philo[i].target_philo = &philo[i + 1];
+		philo[i].target_philo = &philo[i % data->total_philos];
 		philo[i].data = data;
 		assign_forks(&philo[i], data->forks, i);
 		philo[i].can_eat = true;
 	}
 	return (philo);
 }
+
+/**This function initialices the data inside the t_data struct*/
 t_data	*init_data(int argc, char **argv)
 {
 	t_data *data;
@@ -77,11 +95,5 @@ t_data	*init_data(int argc, char **argv)
 	data->forks = ft_calloc(data->total_philos, sizeof(pthread_mutex_t));
 	if (!data->forks)
 		return (free(data), NULL);
-//	data->philo_feed = 0;
-	pthread_mutex_init(&data->all_alive_mutex, NULL);
-	pthread_mutex_init(&data->all_ate_mutex, NULL);
-	pthread_mutex_init(&data->all_ready_mutex, NULL);
-	pthread_mutex_init(&data->write_mutex, NULL);
-	pthread_mutex_init(&data->philos_full_mutex, NULL);
 	return (data);
 }

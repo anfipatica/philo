@@ -6,7 +6,7 @@
 /*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/06 13:58:04 by anfi              #+#    #+#             */
-/*   Updated: 2024/09/02 19:51:43 by anfi             ###   ########.fr       */
+/*   Updated: 2024/09/02 23:26:31 by anfi             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -48,29 +48,8 @@ void	*ft_calloc(size_t nitems, size_t size)
 	return (str);
 }
 
-// void	handle_mutex_error(int status, t_mutex mutex_option)
-// {
-// 	if (status == 0)
-// 		return ;
-// 	if (status == EINVAL && mutex_option == LOCK || mutex_option == UNLOCK)
-// 		error_exit("the mutex has not been properly initialized");
-	
-// }
-
-// void	safe_mutex_handle(pthread_mutex_t *mutex, t_mutex mutex_option)
-// {
-// 	if (mutex_option == LOCK)
-// 		handle_mutex_error(pthread_mutex_lock(mutex), mutex_option);
-// 	else if (mutex_option == UNLOCK)
-// 		handle_mutex_error(pthread_mutex_unlock(mutex), mutex_option);
-// 	else if (mutex_option == INIT)
-// 		handle_mutex_error(pthread_mutex_init(mutex, NULL), mutex_option);
-// 	else if (mutex_option == DESTROY)
-// 		handle_mutex_error(pthread_mutex_destroy(mutex), mutex_option);
-// 	else
-// 		error_exit("Invalid mutex option");
-// }
-
+/**A function that returns in *milliseconds* the time since the Epoch
+ */
 unsigned long get_time(void)
 {
 	struct timeval time;
@@ -79,7 +58,11 @@ unsigned long get_time(void)
 	return ((time.tv_sec * 1000 + time.tv_usec / 1000));
 }
 
-void	precise_usleep(unsigned long milliseconds, t_data *data)
+/**A more precise version of usleep, better for longer
+ * periods of sleeping time
+ * 
+ * It also works in milliseconds instead of microseconds!!*/
+void	own_msleep(unsigned long milliseconds, t_data *data)
 {
 	unsigned long	start;
 
@@ -90,4 +73,13 @@ void	precise_usleep(unsigned long milliseconds, t_data *data)
 			break;
 		usleep(500);
 	}
+}
+
+/** This functions keeps the calling thread waiting until all threads
+ * have been created, moment in which the all_ready boolean
+ * will change its state.*/
+void	wait_all_threads(t_data *data)
+{
+	while (get_bool(&data->all_ready_mutex, &data->all_ready) == false)
+		;
 }
