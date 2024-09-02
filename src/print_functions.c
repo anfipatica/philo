@@ -3,18 +3,35 @@
 /*                                                        :::      ::::::::   */
 /*   print_functions.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
+/*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/06 13:58:04 by anfi              #+#    #+#             */
-/*   Updated: 2024/08/21 20:32:49 by ymunoz-m         ###   ########.fr       */
+/*   Updated: 2024/09/02 18:39:41 by anfi             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../inc/philo.h"
 
-int	error_exit(const char *error)
+int	error_exit(int	error)
 {
-	printf(RED"%s\n"STD, error);
+	if (error == WRONG_ARGUMENT_NUMBER)
+	{
+		printf(RED"WRONG_ARGUMENT_NUMBER\n"STD);
+	}
+	else if (error == NEGATIVE_NUMBER)
+	{
+		printf(RED"NEGATIVE_NUMBER\n"STD);
+	}
+	else if (error == INVALID_CHAR)
+	{
+		printf(RED"INVALID_CHAR\n"STD);
+	}
+	else if (error == MALLOC_ERROR)
+	{
+		printf(RED"MALLOC_ERROR\n"STD);
+	}
+	else if (error == PTHREAD_ERROR)
+		printf(RED"PTHREAD_ERROR\n"STD);
 	return (1);
 }
 

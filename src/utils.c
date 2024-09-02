@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   utils.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
+/*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/06 13:58:04 by anfi              #+#    #+#             */
-/*   Updated: 2024/08/21 14:33:09 by ymunoz-m         ###   ########.fr       */
+/*   Updated: 2024/09/02 19:51:43 by anfi             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -43,7 +43,7 @@ void	*ft_calloc(size_t nitems, size_t size)
 
 	str = (malloc(nitems * size));
 	if (str == 0)
-		return (error_exit("Malloc error"), NULL);
+		return (error_exit(MALLOC_ERROR), NULL);
 	memset(str, '\0', size);
 	return (str);
 }

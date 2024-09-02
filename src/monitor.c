@@ -3,15 +3,33 @@
 /*                                                        :::      ::::::::   */
 /*   monitor.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
+/*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/19 21:19:13 by anfi              #+#    #+#             */
-/*   Updated: 2024/08/21 14:38:07 by ymunoz-m         ###   ########.fr       */
+/*   Updated: 2024/09/02 23:02:42 by anfi             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../inc/philo.h"
 
+void	wait_all_threads(t_data *data)
+{
+	while (get_bool(&data->all_ready_mutex, &data->all_ready) == false)
+		;
+}
+
+t_bool	check_if_dead(t_philo *philo)
+{
+	t_bool	bool;
+
+	bool = false;
+	pthread_mutex_lock(&philo->last_meal_mutex);
+	if ((get_time() - philo->last_meal) > philo->data->death)
+		bool = true;
+//	printf("%d----->%lu\n", philo->index, get_time() - philo->last_meal);
+	pthread_mutex_unlock(&philo->last_meal_mutex);
+	return (bool);
+}
 void *monitor_function(void *philo_void)
 {
 	t_philo	*philo;
@@ -20,22 +38,20 @@ void *monitor_function(void *philo_void)
 
 	philo = (t_philo *)philo_void;
 	data = (t_data *)philo[0].data;
-	i = -1;
 	wait_all_threads(data);
+	printf("threads listos!!\n");
+	precise_usleep(data->death / 2, data);
+	i = 0;
 	while (meal_continues(data) == true)
 	{
-		++i;
-		if (philo[i].last_meal == 0) //add a mutex
-			philo[i].last_meal = get_time();
-		if ((get_time() - philo[i].last_meal) > data->death) //maybe add a safer to way to access last_meal
+		if (check_if_dead(&philo[i]) == true)
 		{
-			printf("--> %lu\n", (get_time() - philo[i].last_meal));
 			print_status(DIED, &philo[i]);
-			set_bool(&data->data_mutex, &data->all_alive, false);
-			break;
+			set_bool(&data->all_alive_mutex, &data->all_alive, false);
+			return (NULL);
 		}
-		if (i + 1 >= data->total_philos)
-			i = -1;
+		if (++i >= data->total_philos)
+			i = 0;
 	}
 	return (NULL);
 }

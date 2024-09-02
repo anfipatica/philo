@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   getters_setters.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
+/*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/14 23:13:38 by anfi              #+#    #+#             */
-/*   Updated: 2024/08/21 18:01:25 by ymunoz-m         ###   ########.fr       */
+/*   Updated: 2024/09/02 22:41:22 by anfi             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -47,27 +47,9 @@ long	get_long(pthread_mutex_t *mutex, long *value)
 
 t_bool	meal_continues(t_data *data)
 {
-	if (get_bool(&data->data_mutex, &data->all_alive) == false)
+	if (get_bool(&data->all_alive_mutex, &data->all_alive) == false)
 		return (false);
-	if (get_bool(&data->data_mutex, &data->all_ate) == true)
+	if (get_bool(&data->all_ate_mutex, &data->all_ate) == true)
 		return (false);
 	return (true);
-}
-
-void	set_int(pthread_mutex_t *mutex, int *dest, int value)
-{
-	pthread_mutex_lock(mutex);
-	*dest = value;
-	pthread_mutex_unlock(mutex);
-}
-
-int	get_int(pthread_mutex_t *mutex, int *value)
-{
-	int	ret;
-
-	pthread_mutex_lock(mutex);
-	ret = *value;
-	pthread_mutex_unlock(mutex);
-	printf("ret__________________________ %d\n", ret);
-	return (ret);
 }

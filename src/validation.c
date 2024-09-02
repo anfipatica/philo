@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   validation.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
+/*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/19 19:24:27 by anfi              #+#    #+#             */
-/*   Updated: 2024/08/21 14:28:48 by ymunoz-m         ###   ########.fr       */
+/*   Updated: 2024/09/02 14:37:23 by anfi             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,16 +26,16 @@ int	validate_argv(char *argv)
 		if (argv[i] && argv[i] == '+')
 			i++;
 		else if (argv[i] && argv[i] == '-')
-			return (-2);
+			return (NEGATIVE_NUMBER);
 		if (argv[i] && (argv[i] == '0' || (argv[i] < '0' || argv[i] > '9')))
-			return (-1);
+			return (INVALID_CHAR);
 		while (argv[i] && (argv[i] >= '0' && argv[i] <= '9'))
 		{
 			i++;
 			if (!argv[i] || (argv[i] && argv[i] == ' '))
 				n++;
 			else if (argv[i] < '0' || argv[i] > '9')
-				return (-1);
+				return (INVALID_CHAR);
 		}
 	}
 	return (n);
@@ -51,10 +51,8 @@ int	validate_arguments(char **argv)
 	while (argv[++i])
 	{
 		returned = validate_argv(argv[i]);
-		if (returned == -2)
-			return (error_exit("Please, enter only positive numbers"));
-		else if (returned == -1)
-			return (error_exit("Please, enter numeric values"));
+		if (returned < 0)
+			return (error_exit(returned));
 	}
 	return (0);
 }
