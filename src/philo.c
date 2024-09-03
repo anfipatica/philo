@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   philo.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
+/*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/06 13:55:37 by anfi              #+#    #+#             */
-/*   Updated: 2024/09/02 23:41:54 by anfi             ###   ########.fr       */
+/*   Updated: 2024/09/03 18:42:56 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,23 +20,20 @@ int	dinner_start(t_data *data, t_philo *philo)
 
 	if (pthread_create(&data->monitor, NULL, monitor_function, philo))
 		return (error_exit(PTHREAD_ERROR));
-	pthread_detach(data->monitor);
 	i = -1;
 	while (++i < data->total_philos)
 	{
 		if (data->total_philos == 1)
 		{
-			printf("Vaya! una unidad de filósofo\n");
 			pthread_create(&philo[i].thread, NULL, eat_one_philo, &philo[i]);
-			printf("break!!!\n");
-			break;
+			break ;
 		}
 		pthread_create(&philo[i].thread, NULL, eat_sleep_repeat, &philo[i]);
 	}
 	data->start_time = get_time();
-	printf("->star_time here is: %lu\n", data->start_time);
 	set_bool(&data->all_ready_mutex, &data->all_ready, true);
 	i = -1;
+	pthread_join(data->monitor, NULL);
 	while (++i < data->total_philos)
 		pthread_join(philo[i].thread, NULL);
 	return (0);
@@ -44,9 +41,9 @@ int	dinner_start(t_data *data, t_philo *philo)
 
 int	main(int argc, char **argv)
 {
-	t_data		*data;
-	t_philo		*philos;
-	
+	t_data	*data;
+	t_philo	*philos;
+
 	philos = NULL;
 	if (argc == 5 || argc == 6)
 	{

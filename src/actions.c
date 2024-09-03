@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   actions.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
+/*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/19 21:19:13 by anfi              #+#    #+#             */
-/*   Updated: 2024/09/02 23:58:07 by anfi             ###   ########.fr       */
+/*   Updated: 2024/09/03 20:46:11 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,7 +20,6 @@ void	check_if_full(t_philo *philo, t_data *data)
 {
 	if (data->min_meals > 0)
 		philo->times_eaten++;
-
 	if (data->min_meals > 0 && philo->times_eaten == data->min_meals)
 	{
 		pthread_mutex_lock(&data->philos_full_mutex);
@@ -42,10 +41,10 @@ void	eat(t_philo *philo, t_data *data)
 	pthread_mutex_lock(philo->second_fork);
 	print_status(TAKE_FORK, philo);
 	print_status(EATING, philo);
-	own_msleep(data->eat, data);
 	pthread_mutex_lock(&philo->last_meal_mutex);
 	philo->last_meal = get_time();
 	pthread_mutex_unlock(&philo->last_meal_mutex);
+	own_msleep(data->eat, data);
 	check_if_full(philo, data);
 	pthread_mutex_unlock(philo->second_fork);
 	pthread_mutex_unlock(philo->first_fork);
@@ -55,12 +54,11 @@ void	eat(t_philo *philo, t_data *data)
 void	*eat_one_philo(void *philo_void)
 {
 	t_philo	*philo;
-	t_data *data;
+	t_data	*data;
 
 	philo = (t_philo *)philo_void;
 	data = philo->data;
 	wait_all_threads(data);
-	printf("comenzamos!\n");
 	pthread_mutex_lock(&philo->last_meal_mutex);
 	philo->last_meal = data->start_time;
 	pthread_mutex_unlock(&philo->last_meal_mutex);
@@ -72,14 +70,13 @@ void	*eat_one_philo(void *philo_void)
 	return (NULL);
 }
 
-
 /**The dinner simulation iself.
  * It will keep running until any philosopher dies or the minimum meals
  * have been reached*/
 void	*eat_sleep_repeat(void *philo_void)
 {
 	t_philo	*philo;
-	t_data *data;
+	t_data	*data;
 
 	philo = (t_philo *)philo_void;
 	data = philo->data;
@@ -93,6 +90,7 @@ void	*eat_sleep_repeat(void *philo_void)
 		print_status(SLEEPING, philo);
 		own_msleep(data->sleep, data);
 		print_status(THINKING, philo);
+		own_msleep(1, data);
 	}
 	return (NULL);
 }

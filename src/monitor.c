@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   monitor.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
+/*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/19 21:19:13 by anfi              #+#    #+#             */
-/*   Updated: 2024/09/02 23:48:19 by anfi             ###   ########.fr       */
+/*   Updated: 2024/09/03 18:49:52 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -40,7 +40,7 @@ t_bool	check_if_dead(t_philo *philo)
 /**The monitor itself. A thread that will run paralel to the philosophers and
  * the main thread checking the state of the dinner, ending it whenever any
  * philosopher dies or the minimum meal request has been achieved.*/
-void *monitor_function(void *philo_void)
+void	*monitor_function(void *philo_void)
 {
 	t_philo	*philo;
 	t_data	*data;

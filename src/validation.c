@@ -3,48 +3,48 @@
 /*                                                        :::      ::::::::   */
 /*   validation.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
+/*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/19 19:24:27 by anfi              #+#    #+#             */
-/*   Updated: 2024/09/02 14:37:23 by anfi             ###   ########.fr       */
+/*   Updated: 2024/09/03 17:52:43 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../inc/philo.h"
 
-int	validate_argv(char *argv)
+long	validate_argv(char *s)
 {
-	int	i;
-	int	n;
+	long	n;
+	int		j;
 
-	i = 0;
 	n = 0;
-	while (argv[i])
+	j = 1;
+	while (*s == ' ' || (*s >= 9 && *s <= 13))
+		s++;
+	if (*s == '-' || *s == '+' )
 	{
-		while (argv[i] == ' ')
-			i++;
-		if (argv[i] && argv[i] == '+')
-			i++;
-		else if (argv[i] && argv[i] == '-')
-			return (NEGATIVE_NUMBER);
-		if (argv[i] && (argv[i] == '0' || (argv[i] < '0' || argv[i] > '9')))
-			return (INVALID_CHAR);
-		while (argv[i] && (argv[i] >= '0' && argv[i] <= '9'))
-		{
-			i++;
-			if (!argv[i] || (argv[i] && argv[i] == ' '))
-				n++;
-			else if (argv[i] < '0' || argv[i] > '9')
-				return (INVALID_CHAR);
-		}
+		if (*s == '-')
+			j = j * -1;
+		s++;
 	}
+	while (*s)
+	{
+		if (!(*s >= '0' && *s <= '9'))
+			return (INVALID_CHAR);
+		n = (n * 10) + (*s - '0');
+		s++;
+	}
+	if (j == -1 && n != 0)
+		return (NEGATIVE_NUMBER);
+	else if (j == -1)
+		return (INVALID_CHAR);
 	return (n);
 }
 
 int	validate_arguments(char **argv)
 {
-	int	i;
-	int	returned;
+	int		i;
+	long	returned;
 
 	i = 0;
 	returned = 0;
@@ -53,6 +53,12 @@ int	validate_arguments(char **argv)
 		returned = validate_argv(argv[i]);
 		if (returned < 0)
 			return (error_exit(returned));
+		else if (returned > INT_MAX || returned < INT_MIN)
+			return (error_exit(ERROR_INT));
+		else if (i == 1 && returned > 200)
+			return (error_exit(TOO_MANY_PHILOS));
+		else if (i > 1 && i < 5 && returned < 60)
+			return (error_exit(INVALID_TIME));
 	}
 	return (0);
 }

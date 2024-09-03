@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   utils.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
+/*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/06 13:58:04 by anfi              #+#    #+#             */
-/*   Updated: 2024/09/02 23:26:31 by anfi             ###   ########.fr       */
+/*   Updated: 2024/09/03 18:50:04 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -50,9 +50,10 @@ void	*ft_calloc(size_t nitems, size_t size)
 
 /**A function that returns in *milliseconds* the time since the Epoch
  */
-unsigned long get_time(void)
+unsigned long	get_time(void)
 {
-	struct timeval time;
+	struct timeval	time;
+
 	if (gettimeofday(&time, NULL))
 		return (0);
 	return ((time.tv_sec * 1000 + time.tv_usec / 1000));
@@ -70,7 +71,7 @@ void	own_msleep(unsigned long milliseconds, t_data *data)
 	while (get_time() - start < milliseconds)
 	{
 		if (meal_continues(data) == false)
-			break;
+			break ;
 		usleep(500);
 	}
 }

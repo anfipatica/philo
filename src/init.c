@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   init.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
+/*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/14 23:13:38 by anfi              #+#    #+#             */
-/*   Updated: 2024/09/02 23:38:54 by anfi             ###   ########.fr       */
+/*   Updated: 2024/09/03 20:44:10 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,18 +16,18 @@
  * based on wether it's index is an odd number or not to avoid deadlocks. */
 void	assign_forks(t_philo *philo, pthread_mutex_t *forks, int i)
 {
-	//if there is only one philo could this lead to problems??? aparently not but ????
-	if (philo->index % 2)
+	if ((philo->data->total_philos % 2 && philo->index == 0) || philo->index % 2)
 	{
 		philo->first_fork = &forks[i];
 		philo->second_fork = &forks[(i + 1) % philo->data->total_philos];
+		printf("index = %d, first_fork = %d, second_fork = %d\n", philo->index, i, (i + 1) % philo->data->total_philos);
 	}
 	else
 	{
 		philo->first_fork = &forks[(i + 1) % philo->data->total_philos];
 		philo->second_fork = &forks[i];
+		printf("index = %d, first_fork = %d, second_fork = %d\n", philo->index,(i + 1) % philo->data->total_philos, i);
 	}
-
 }
 
 /**This function initialices every mutex needed for the program
@@ -75,8 +75,8 @@ t_philo	*init_philos(t_data *data, t_philo *philo)
 /**This function initialices the data inside the t_data struct*/
 t_data	*init_data(int argc, char **argv)
 {
-	t_data *data;
-	
+	t_data	*data;
+
 	data = malloc(sizeof(t_data));
 	if (!data)
 		return (NULL);

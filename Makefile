@@ -8,9 +8,10 @@ SRC_DIR = ./src
 #BONUS_DIR = ./bonus
 CC = gcc
 #CFLAGS = -I$(INC_DIR)
-#FLAGS = -Wall -Werror -Wextra -I$(INC_DIR)
+CFLAGS = -Wall -Werror -Wextra -I$(INC_DIR)
 #CFLAGS = -Wall -Werror -Wextra -I$(INC_DIR) -fsanitize=address -g3 
-CFLAGS = -Wall -Werror -Wextra -I$(INC_DIR) -fsanitize=thread -g -O1 -fPIE -pie -fno-omit-frame-pointer
+#CFLAGS = -Wall -Werror -Wextra -I$(INC_DIR) -fsanitize=thread -g -O1 -fPIE -pie -fno-omit-frame-pointer
+
 RM = rm -rf
 
 OBJS = $(OBJS_DIR)/philo.o \

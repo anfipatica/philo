@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   getters_setters.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: anfi <anfi@student.42.fr>                  +#+  +:+       +#+        */
+/*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/14 23:13:38 by anfi              #+#    #+#             */
-/*   Updated: 2024/09/02 23:50:49 by anfi             ###   ########.fr       */
+/*   Updated: 2024/09/03 18:50:00 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,7 +25,8 @@ void	set_bool(pthread_mutex_t *mutex, t_bool *bool, t_bool value)
  * with the protection of its respective mutex*/
 t_bool	get_bool(pthread_mutex_t *mutex, t_bool *bool)
 {
-	t_bool ret;
+	t_bool	ret;
+
 	pthread_mutex_lock(mutex);
 	ret = *bool;
 	pthread_mutex_unlock(mutex);
