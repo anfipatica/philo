@@ -6,7 +6,7 @@
 /*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/06 13:54:28 by anfi              #+#    #+#             */
-/*   Updated: 2024/09/18 19:22:56 by ymunoz-m         ###   ########.fr       */
+/*   Updated: 2024/09/18 19:25:10 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -123,7 +123,6 @@ void			*ft_calloc(size_t nitems, size_t size);
 int				ft_atoi(const char *s);
 unsigned long	get_time(void);
 void			own_msleep(unsigned long milliseconds, t_data *data);
-void			wait_all_threads(t_data *data);
 
 /*philo.c
 	Where the main is.
