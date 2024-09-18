@@ -6,7 +6,7 @@
 /*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/19 21:19:13 by anfi              #+#    #+#             */
-/*   Updated: 2024/09/03 18:49:52 by ymunoz-m         ###   ########.fr       */
+/*   Updated: 2024/09/18 16:53:06 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -48,7 +48,6 @@ void	*monitor_function(void *philo_void)
 
 	philo = (t_philo *)philo_void;
 	data = (t_data *)philo[0].data;
-	wait_all_threads(data);
 	own_msleep(data->death / 2, data);
 	i = 0;
 	while (meal_continues(data) == true)

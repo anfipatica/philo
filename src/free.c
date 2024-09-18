@@ -6,7 +6,7 @@
 /*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/14 23:26:11 by anfi              #+#    #+#             */
-/*   Updated: 2024/09/03 18:45:51 by ymunoz-m         ###   ########.fr       */
+/*   Updated: 2024/09/18 19:23:28 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,7 +23,6 @@ void	ft_free(t_philo *philo, t_data *data)
 	i = -1;
 	pthread_mutex_destroy(&data->all_alive_mutex);
 	pthread_mutex_destroy(&data->all_ate_mutex);
-	pthread_mutex_destroy(&data->all_ready_mutex);
 	pthread_mutex_destroy(&data->write_mutex);
 	pthread_mutex_destroy(&data->philos_full_mutex);
 	while (++i < data->total_philos)

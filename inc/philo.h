@@ -6,7 +6,7 @@
 /*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/06 13:54:28 by anfi              #+#    #+#             */
-/*   Updated: 2024/09/03 20:28:09 by ymunoz-m         ###   ########.fr       */
+/*   Updated: 2024/09/18 19:22:56 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -39,6 +39,7 @@
 # define PTHREAD_ERROR -6
 # define ERROR_INT -7
 # define TOO_MANY_PHILOS -8
+# define INVALID_PHILOS -9
 
 typedef enum e_boolean
 {
@@ -81,8 +82,6 @@ typedef struct s_data
 	pthread_mutex_t	all_alive_mutex;
 	t_bool			all_ate;
 	pthread_mutex_t	all_ate_mutex;
-	t_bool			all_ready;
-	pthread_mutex_t	all_ready_mutex;
 	pthread_mutex_t	write_mutex;
 	pthread_mutex_t	*forks;
 }				t_data;

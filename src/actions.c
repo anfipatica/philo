@@ -6,15 +6,15 @@
 /*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/19 21:19:13 by anfi              #+#    #+#             */
-/*   Updated: 2024/09/03 20:46:11 by ymunoz-m         ###   ########.fr       */
+/*   Updated: 2024/09/18 18:56:17 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../inc/philo.h"
 
 /**
- * This function will increase a counter each time its philo has eaten. When the
- * minimum meals requisement has been fulfilled, it will increase the
+ * This function will increase a counter each time its philo has eaten. When
+ * the minimum meals requisement has been fulfilled, it will increase the
  * philos_full counter*/
 void	check_if_full(t_philo *philo, t_data *data)
 {
@@ -46,8 +46,8 @@ void	eat(t_philo *philo, t_data *data)
 	pthread_mutex_unlock(&philo->last_meal_mutex);
 	own_msleep(data->eat, data);
 	check_if_full(philo, data);
-	pthread_mutex_unlock(philo->second_fork);
 	pthread_mutex_unlock(philo->first_fork);
+	pthread_mutex_unlock(philo->second_fork);
 }
 
 /**A function that is called when there is only one philo*/
@@ -58,7 +58,6 @@ void	*eat_one_philo(void *philo_void)
 
 	philo = (t_philo *)philo_void;
 	data = philo->data;
-	wait_all_threads(data);
 	pthread_mutex_lock(&philo->last_meal_mutex);
 	philo->last_meal = data->start_time;
 	pthread_mutex_unlock(&philo->last_meal_mutex);
@@ -80,7 +79,8 @@ void	*eat_sleep_repeat(void *philo_void)
 
 	philo = (t_philo *)philo_void;
 	data = philo->data;
-	wait_all_threads(data);
+	if (philo->index % 2 == 0)
+		own_msleep(1, data);
 	pthread_mutex_lock(&philo->last_meal_mutex);
 	philo->last_meal = data->start_time;
 	pthread_mutex_unlock(&philo->last_meal_mutex);
@@ -90,7 +90,6 @@ void	*eat_sleep_repeat(void *philo_void)
 		print_status(SLEEPING, philo);
 		own_msleep(data->sleep, data);
 		print_status(THINKING, philo);
-		own_msleep(1, data);
 	}
 	return (NULL);
 }

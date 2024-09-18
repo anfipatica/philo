@@ -6,7 +6,7 @@
 /*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/06 13:55:37 by anfi              #+#    #+#             */
-/*   Updated: 2024/09/03 18:42:56 by ymunoz-m         ###   ########.fr       */
+/*   Updated: 2024/09/18 18:52:55 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,6 +21,7 @@ int	dinner_start(t_data *data, t_philo *philo)
 	if (pthread_create(&data->monitor, NULL, monitor_function, philo))
 		return (error_exit(PTHREAD_ERROR));
 	i = -1;
+	data->start_time = get_time();
 	while (++i < data->total_philos)
 	{
 		if (data->total_philos == 1)
@@ -30,12 +31,10 @@ int	dinner_start(t_data *data, t_philo *philo)
 		}
 		pthread_create(&philo[i].thread, NULL, eat_sleep_repeat, &philo[i]);
 	}
-	data->start_time = get_time();
-	set_bool(&data->all_ready_mutex, &data->all_ready, true);
 	i = -1;
-	pthread_join(data->monitor, NULL);
 	while (++i < data->total_philos)
 		pthread_join(philo[i].thread, NULL);
+	pthread_join(data->monitor, NULL);
 	return (0);
 }
 

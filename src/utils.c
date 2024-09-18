@@ -6,7 +6,7 @@
 /*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/06 13:58:04 by anfi              #+#    #+#             */
-/*   Updated: 2024/09/03 18:50:04 by ymunoz-m         ###   ########.fr       */
+/*   Updated: 2024/09/18 18:56:30 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -74,13 +74,4 @@ void	own_msleep(unsigned long milliseconds, t_data *data)
 			break ;
 		usleep(500);
 	}
-}
-
-/** This functions keeps the calling thread waiting until all threads
- * have been created, moment in which the all_ready boolean
- * will change its state.*/
-void	wait_all_threads(t_data *data)
-{
-	while (get_bool(&data->all_ready_mutex, &data->all_ready) == false)
-		;
 }

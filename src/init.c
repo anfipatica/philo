@@ -6,7 +6,7 @@
 /*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/14 23:13:38 by anfi              #+#    #+#             */
-/*   Updated: 2024/09/03 20:44:10 by ymunoz-m         ###   ########.fr       */
+/*   Updated: 2024/09/18 19:23:10 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,17 +16,15 @@
  * based on wether it's index is an odd number or not to avoid deadlocks. */
 void	assign_forks(t_philo *philo, pthread_mutex_t *forks, int i)
 {
-	if ((philo->data->total_philos % 2 && philo->index == 0) || philo->index % 2)
+	if (philo->data->total_philos % 2 == 0 && philo->index % 2)
 	{
 		philo->first_fork = &forks[i];
 		philo->second_fork = &forks[(i + 1) % philo->data->total_philos];
-		printf("index = %d, first_fork = %d, second_fork = %d\n", philo->index, i, (i + 1) % philo->data->total_philos);
 	}
 	else
 	{
 		philo->first_fork = &forks[(i + 1) % philo->data->total_philos];
 		philo->second_fork = &forks[i];
-		printf("index = %d, first_fork = %d, second_fork = %d\n", philo->index,(i + 1) % philo->data->total_philos, i);
 	}
 }
 
@@ -39,7 +37,6 @@ void	init_mutex(t_data *data, t_philo *philo)
 	i = -1;
 	pthread_mutex_init(&data->all_alive_mutex, NULL);
 	pthread_mutex_init(&data->all_ate_mutex, NULL);
-	pthread_mutex_init(&data->all_ready_mutex, NULL);
 	pthread_mutex_init(&data->write_mutex, NULL);
 	pthread_mutex_init(&data->philos_full_mutex, NULL);
 	while (++i < data->total_philos)
@@ -90,7 +87,6 @@ t_data	*init_data(int argc, char **argv)
 		data->min_meals = -1;
 	data->all_alive = true;
 	data->all_ate = false;
-	data->all_ready = false;
 	data->philos_full = 0;
 	data->forks = ft_calloc(data->total_philos, sizeof(pthread_mutex_t));
 	if (!data->forks)

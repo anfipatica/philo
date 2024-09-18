@@ -6,7 +6,7 @@
 /*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/19 19:24:27 by anfi              #+#    #+#             */
-/*   Updated: 2024/09/03 17:52:43 by ymunoz-m         ###   ########.fr       */
+/*   Updated: 2024/09/18 18:56:46 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -51,7 +51,9 @@ int	validate_arguments(char **argv)
 	while (argv[++i])
 	{
 		returned = validate_argv(argv[i]);
-		if (returned < 0)
+		if (i == 1 && returned <= 0)
+			return (error_exit(INVALID_PHILOS));
+		else if (returned < 0)
 			return (error_exit(returned));
 		else if (returned > INT_MAX || returned < INT_MIN)
 			return (error_exit(ERROR_INT));

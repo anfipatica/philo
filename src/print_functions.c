@@ -6,7 +6,7 @@
 /*   By: ymunoz-m <ymunoz-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/06 13:58:04 by anfi              #+#    #+#             */
-/*   Updated: 2024/09/03 18:56:07 by ymunoz-m         ###   ########.fr       */
+/*   Updated: 2024/09/18 18:56:01 by ymunoz-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,17 +21,22 @@ int	error_exit_two(int error)
 	else if (error == ERROR_INT)
 	{
 		printf(RED"*ERROR_INT*\n"ORANG"Please, enter only positive"
-		" numbers inside the int range.\n"STD);
+			" numbers inside the int range.\n"STD);
 	}
 	else if (error == INVALID_TIME)
 	{
 		printf(RED"*INVALID_TIME*\n"ORANG"Please, enter times "
-		"longer than 60 ms\n"STD);
+			"longer than 60 ms\n"STD);
 	}
 	else if (error == TOO_MANY_PHILOS)
 	{
 		printf(RED"*TOO_MANY_PHILOS*\n"ORANG"Please, don't enter more "
-		"than 200 philos.\nThe pc might explode!!\n"STD);
+			"than 200 philos.\nThe pc might explode!!\n"STD);
+	}
+	else if (error == INVALID_PHILOS)
+	{
+		printf(RED"*INVALID_PHILO_NUMBER*\n"ORANG"Please, there must be "
+			"at least 1 philo!!\n"STD);
 	}
 	return (1);
 }
@@ -41,21 +46,21 @@ int	error_exit(int error)
 	if (error == WRONG_ARGUMENT_NUMBER)
 	{
 		printf(RED"*WRONG_ARGUMENT_NUMBER*\n\n"
-		"The program must be executed with the following arguments:\n\n"
-		BLUE"./philo [nº_philosopers] [time_to_die] [time_to_eat] "
-		"[time_to_sleep]\n   (optional: [nºtimes_each_philosopher"
-		"_must_eat])\n"STD"\nExample: ./philo 4 400 210 100 5\n"
-		RED"\nIt only accepts positive int values!!\n"STD);
+			"The program must be executed with the following arguments:\n\n"
+			BLUE"./philo [nº_philosopers] [time_to_die] [time_to_eat] "
+			"[time_to_sleep]\n   (optional: [nºtimes_each_philosopher"
+			"_must_eat])\n"STD"\nExample: ./philo 4 400 210 100 5\n"
+			RED"\nIt only accepts positive int values!!\n"STD);
 	}
 	else if (error == NEGATIVE_NUMBER)
 	{
 		printf(RED"*NEGATIVE_NUMBER*\n"
-		ORANG"Please enter only positive ints\n"STD);
+			ORANG"Please enter only positive ints\n"STD);
 	}
 	else if (error == INVALID_CHAR)
 	{
 		printf(RED"*INVALID_CHAR*\n"ORANG"Found an invalid char.\n"
-		"Please enter only numeric values\n"STD);
+			"Please enter only numeric values\n"STD);
 	}
 	else
 		error_exit_two(error);
